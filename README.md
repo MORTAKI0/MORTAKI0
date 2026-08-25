@@ -39,7 +39,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███░░░░░░░` **28/100** across the 8 hottest public builds
 
-**30-day pulse:** **166 commits** · **37 PRs touched** · **52 branches** · **1 releases**
+**30-day pulse:** **437 commits** · **37 PRs touched** · **52 branches** · **1 releases**
 
 🚀 **1** hot · 🔥 **0** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **39** quiet
 
@@ -47,7 +47,7 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 100 | 295 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 371 | 293 | today | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 48 | 0 | 18 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟢 Active** | **51** | 18 | 0 | 28 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 63 days ago | `TypeScript` |
@@ -154,11 +154,11 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 
 <!-- RECENT_ACTIVITY:START -->
 - ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Merged PR [**#173 pull request**](https://github.com/egawilldoit/Ega-House-Platform) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🔀 Merged PR [**#173 ci(mobile): build Android once on Blacksmith and verify exact APK**](https://github.com/egawilldoit/Ega-House-Platform/pull/173) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 - 🌱 Created branch `ci/mobile-delivery-blacksmith` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Merged PR [**#172 pull request**](https://github.com/egawilldoit/Ega-House-Platform) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🔀 Merged PR [**#172 fix(server): bundle workspace code for Vercel runtime**](https://github.com/egawilldoit/Ega-House-Platform/pull/172) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🔀 Merged PR [**#171 fix(server): align Vercel Hono project with zero-config entrypoint**](https://github.com/egawilldoit/Ega-House-Platform/pull/171) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 24, 2026_
+- 🌱 Created branch `fix/vercel-hono-zero-config` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 24, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---

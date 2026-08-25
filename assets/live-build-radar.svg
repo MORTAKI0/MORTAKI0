@@ -23,7 +23,7 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 </circle>
 <text x="62" y="50" class="main" font-size="27" font-weight="800">LIVE BUILD VELOCITY</text>
 <text x="62" y="76" class="muted" font-size="14">MORTAKI0 + EGAWILLDOIT · generated from public GitHub signals</text>
-<text x="1138" y="50" class="muted" font-size="13" text-anchor="end">2026-08-25 11:50 UTC</text>
+<text x="1138" y="50" class="muted" font-size="13" text-anchor="end">2026-08-25 11:53 UTC</text>
 <rect x="32.0" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="50.0" y="122" class="muted" font-size="11" font-weight="700">MOTION</text>
 <text x="50.0" y="150" class="main" font-size="23" font-weight="800">28/100</text>
@@ -32,7 +32,7 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 <text x="279.6" y="150" class="main" font-size="23" font-weight="800">3</text>
 <rect x="491.2" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="509.2" y="122" class="muted" font-size="11" font-weight="700">30D COMMITS</text>
-<text x="509.2" y="150" class="main" font-size="23" font-weight="800">166</text>
+<text x="509.2" y="150" class="main" font-size="23" font-weight="800">437</text>
 <rect x="720.8" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="738.8" y="122" class="muted" font-size="11" font-weight="700">30D PRs</text>
 <text x="738.8" y="150" class="main" font-size="23" font-weight="800">37</text>
@@ -50,7 +50,7 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 <text x="48" y="254" class="muted" font-size="11">EGA · today</text>
 <circle cx="414" cy="240" r="5" fill="#f97316"/>
 <text x="429" y="245" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="245" class="muted" font-size="12">100c · 295e</text>
+<text x="595" y="245" class="muted" font-size="12">371c · 293e</text>
 <rect x="730" y="233" width="360" height="12" rx="6" fill="#21262d"/>
 <rect x="730" y="233" width="360" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.0s" fill="freeze"/>
