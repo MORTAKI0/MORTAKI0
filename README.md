@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███░░░░░░░` **28/100** across the 8 hottest public builds
 
-**30-day pulse:** **429 commits** · **38 PRs touched** · **52 branches** · **1 releases**
+**30-day pulse:** **415 commits** · **39 PRs touched** · **54 branches** · **1 releases**
 
 🚀 **1** hot · 🔥 **0** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **39** quiet
 
@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 364 | 292 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 359 | 286 | today | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 48 | 0 | 18 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟢 Active** | **51** | 17 | 0 | 28 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟢 Active** | **50** | 8 | 0 | 29 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 63 days ago | `TypeScript` |
-| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 78 days ago | `Liquid` |
-| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 83 days ago | `TypeScript` |
-| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 102 days ago | `Java` |
+| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 79 days ago | `Liquid` |
+| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 84 days ago | `TypeScript` |
+| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 103 days ago | `Java` |
 | [`ega-budget-house`](https://github.com/MORTAKI0/ega-budget-house) | **⚪ Quiet** | **0** | 0 | 0 | 111 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -79,7 +79,7 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **4** | **1** | **1** | **2** | **40/100** |
+| **4** | **1** | **1** | **2** | **39/100** |
 
 **Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) · [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker)
 <!-- EGA_STATS:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 🌱 Created branch `fix/mobile-release-api-base-url` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 - ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🌱 Created branch `ci/mobile-delivery-launch-smoke` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🔀 Merged PR [**#176 fix(mobile): embed production API base URL in release APK**](https://github.com/egawilldoit/Ega-House-Platform/pull/176) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🌱 Created branch `fix/server-runtime-bundle` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 - 🔀 Merged PR [**#175 ci(mobile): optimize APK delivery and launch smoke**](https://github.com/egawilldoit/Ega-House-Platform/pull/175) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Merged PR [**#173 ci(mobile): build Android once on Blacksmith and verify exact APK**](https://github.com/egawilldoit/Ega-House-Platform/pull/173) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🌱 Created branch `ci/mobile-delivery-blacksmith` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Merged PR [**#172 fix(server): bundle workspace code for Vercel runtime**](https://github.com/egawilldoit/Ega-House-Platform/pull/172) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Merged PR [**#171 fix(server): align Vercel Hono project with zero-config entrypoint**](https://github.com/egawilldoit/Ega-House-Platform/pull/171) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 24, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
