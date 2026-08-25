@@ -5,6 +5,7 @@ import os
 import re
 import urllib.error
 import urllib.request
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -17,6 +18,8 @@ API_ROOT = "https://api.github.com"
 
 EGA_START = "<!-- EGA_STATS:START -->"
 EGA_END = "<!-- EGA_STATS:END -->"
+STAGES_START = "<!-- BUILD_STAGES:START -->"
+STAGES_END = "<!-- BUILD_STAGES:END -->"
 ACTIVITY_START = "<!-- RECENT_ACTIVITY:START -->"
 ACTIVITY_END = "<!-- RECENT_ACTIVITY:END -->"
 
@@ -48,6 +51,140 @@ def parse_github_time(value: str | None) -> datetime | None:
     if not value:
         return None
     return datetime.fromisoformat(value.replace("Z", "+00:00"))
+
+
+def days_since(value: str | None, now: datetime) -> int | None:
+    pushed_at = parse_github_time(value)
+    if not pushed_at:
+        return None
+    return max(0, (now - pushed_at).days)
+
+
+def activity_stage(repo: dict[str, Any], now: datetime) -> tuple[str, int | None]:
+    if repo.get("archived"):
+        return "📦 Archived", None
+
+    age = days_since(repo.get("pushed_at") or repo.get("updated_at"), now)
+    if age is None:
+        return "⚪ Quiet", None
+    if age <= 7:
+        return "🔥 Shipping now", age
+    if age <= 30:
+        return "🟢 Active build", age
+    if age <= 90:
+        return "🟡 Recent", age
+    return "⚪ Quiet", age
+
+
+def age_label(age: int | None) -> str:
+    if age is None:
+        return "unknown"
+    if age == 0:
+        return "today"
+    if age == 1:
+        return "1 day ago"
+    return f"{age} days ago"
+
+
+def load_public_builds() -> list[dict[str, Any]]:
+    personal = github_get(
+        f"/users/{USERNAME}/repos?type=owner&sort=pushed&direction=desc&per_page=100"
+    )
+    org = github_get(
+        f"/orgs/{ORG}/repos?type=public&sort=pushed&direction=desc&per_page=100"
+    )
+
+    builds: dict[str, dict[str, Any]] = {}
+    for repo in [*personal, *org]:
+        full_name = repo.get("full_name")
+        if (
+            not full_name
+            or full_name == PROFILE_REPO
+            or repo.get("fork")
+            or repo.get("archived")
+        ):
+            continue
+        builds[full_name] = repo
+
+    return list(builds.values())
+
+
+def build_stage_radar() -> str:
+    repos = load_public_builds()
+    now = datetime.now(timezone.utc)
+
+    staged: list[tuple[dict[str, Any], str, int | None]] = []
+    counts = Counter()
+    active_languages = Counter()
+
+    for repo in repos:
+        stage, age = activity_stage(repo, now)
+        staged.append((repo, stage, age))
+        counts[stage] += 1
+        if age is not None and age <= 90 and repo.get("language"):
+            active_languages[str(repo["language"])] += 1
+
+    staged.sort(
+        key=lambda item: (
+            item[2] is None,
+            item[2] if item[2] is not None else 10**9,
+            -(int(item[0].get("stargazers_count", 0))),
+        )
+    )
+
+    active_90d = sum(1 for _, _, age in staged if age is not None and age <= 90)
+    momentum = round((active_90d / len(staged)) * 100) if staged else 0
+    blocks = min(10, max(0, round(momentum / 10)))
+    bar = "█" * blocks + "░" * (10 - blocks)
+
+    stage_summary = " · ".join(
+        [
+            f"🔥 **{counts['🔥 Shipping now']}** shipping",
+            f"🟢 **{counts['🟢 Active build']}** active",
+            f"🟡 **{counts['🟡 Recent']}** recent",
+            f"⚪ **{counts['⚪ Quiet']}** quiet",
+        ]
+    )
+
+    stack_summary = " · ".join(
+        f"`{language}` ×{count}"
+        for language, count in active_languages.most_common(5)
+    ) or "_No active-language signal yet._"
+
+    lines = [
+        f"**Momentum:** `{bar}` **{momentum}%** of public original repos pushed in the last 90 days",
+        "",
+        stage_summary,
+        "",
+        f"**Active stack signal:** {stack_summary}",
+        "",
+        "| Project | Owner | Stage | Last push | Lang | ⭐ | 🍴 | Open |",
+        "| --- | --- | --- | --- | --- | ---: | ---: | ---: |",
+    ]
+
+    for repo, stage, age in staged[:8]:
+        full_name = repo["full_name"]
+        owner = repo.get("owner", {}).get("login", "")
+        name = repo.get("name", full_name)
+        url = repo.get("html_url") or f"https://github.com/{full_name}"
+        language = repo.get("language") or "—"
+        stars = int(repo.get("stargazers_count", 0))
+        forks = int(repo.get("forks_count", 0))
+        open_items = int(repo.get("open_issues_count", 0))
+        lines.append(
+            f"| [`{name}`]({url}) | `{owner}` | **{stage}** | {age_label(age)} | "
+            f"`{language}` | {stars} | {forks} | {open_items} |"
+        )
+
+    lines.extend(
+        [
+            "",
+            "<sub>Stage is derived only from public GitHub push recency: "
+            "🔥 ≤7d · 🟢 ≤30d · 🟡 ≤90d · ⚪ >90d. "
+            "It is an activity signal, not a claim about product maturity or production readiness.</sub>",
+        ]
+    )
+    return "\n".join(lines)
 
 
 def build_ega_stats() -> str:
@@ -170,6 +307,11 @@ def main() -> None:
         readme = replace_section(readme, EGA_START, EGA_END, build_ega_stats())
     except (urllib.error.URLError, urllib.error.HTTPError) as exc:
         print(f"warning: could not refresh EGA stats: {exc}")
+
+    try:
+        readme = replace_section(readme, STAGES_START, STAGES_END, build_stage_radar())
+    except (urllib.error.URLError, urllib.error.HTTPError) as exc:
+        print(f"warning: could not refresh build stages: {exc}")
 
     try:
         readme = replace_section(
