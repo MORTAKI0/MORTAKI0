@@ -190,8 +190,14 @@ def load_recent_commit_counts(
             counts[full_name] = 0
             continue
 
-        commits = github_get(f"/repos/{full_name}/commits?{query}")
-        counts[full_name] = len(commits)
+        total = 0
+        for page in range(1, 11):
+            page_query = f"{query}&page={page}"
+            commits = github_get(f"/repos/{full_name}/commits?{page_query}")
+            total += len(commits)
+            if len(commits) < 100:
+                break
+        counts[full_name] = total
 
     return counts
 
@@ -534,7 +540,7 @@ def event_identity(event: dict[str, Any]) -> tuple[Any, ...]:
         issue = payload.get("issue") or {}
         return ("issue", repo_name, issue.get("number"))
     if event_type == "PushEvent":
-        return ("push", repo_name, event.get("id"))
+        return ("push", repo_name)
     return (event_type, repo_name, event.get("id"))
 
 
@@ -561,10 +567,22 @@ def event_line(event: dict[str, Any]) -> str | None:
 
     elif event_type == "PullRequestEvent":
         pr = payload.get("pull_request") or {}
-        url = pr.get("html_url") or repo_url
         number = pr.get("number") or payload.get("number")
-        title = (pr.get("title") or "pull request").replace("|", "¦")
+        title = pr.get("title")
+        url = pr.get("html_url")
         merged = bool(pr.get("merged"))
+
+        if number and (not title or not url):
+            try:
+                detail = github_get(f"/repos/{repo_name}/pulls/{number}")
+                title = title or detail.get("title")
+                url = url or detail.get("html_url")
+                merged = merged or bool(detail.get("merged_at"))
+            except (urllib.error.URLError, urllib.error.HTTPError):
+                pass
+
+        title = (title or "pull request").replace("|", "¦")
+        url = url or repo_url
         verb = "Merged" if merged else (action or "updated").capitalize()
         text = f"🔀 {verb} PR [**#{number} {title}**]({url}) in {repo_md}"
 
