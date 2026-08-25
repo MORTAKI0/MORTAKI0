@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - "README.md"
       - "scripts/update_profile.py"
       - ".github/workflows/update-readme.yml"
   schedule:
@@ -30,20 +29,20 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Refresh live profile sections
+      - name: Refresh live profile sections and SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_profile.py
 
       - name: Commit changes
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md assets/live-build-radar.svg; then
             echo "Profile is already current."
             exit 0
           fi
 
           git config user.name "profile-dashboard[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: refresh profile dashboard"
+          git add README.md assets/live-build-radar.svg
+          git commit -m "chore: refresh live profile dashboard"
           git push
