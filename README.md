@@ -37,7 +37,24 @@
 > A dynamic view of what is **actually moving right now** across my public repos and **EGAWILLDOIT**. Refreshed automatically from GitHub activity.
 
 <!-- BUILD_STAGES:START -->
-_Stage radar is refreshing from live repository activity._
+**Momentum:** `█░░░░░░░░░` **14%** of public original repos pushed in the last 90 days
+
+🔥 **1** shipping · 🟢 **2** active · 🟡 **3** recent · ⚪ **36** quiet
+
+**Active stack signal:** `TypeScript` ×4 · `TeX` ×1 · `Liquid` ×1
+
+| Project | Owner | Stage | Last push | Lang | ⭐ | 🍴 | Open |
+| --- | --- | --- | --- | --- | ---: | ---: | ---: |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | `egawilldoit` | **🔥 Shipping now** | today | `TypeScript` | 0 | 1 | 53 |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | `MORTAKI0` | **🟢 Active build** | 18 days ago | `TeX` | 0 | 1 | 0 |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | `egawilldoit` | **🟢 Active build** | 28 days ago | `TypeScript` | 0 | 0 | 13 |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | `MORTAKI0` | **🟡 Recent** | 63 days ago | `TypeScript` | 0 | 0 | 0 |
+| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | `MORTAKI0` | **🟡 Recent** | 78 days ago | `Liquid` | 0 | 0 | 0 |
+| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | `egawilldoit` | **🟡 Recent** | 83 days ago | `TypeScript` | 0 | 0 | 0 |
+| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | `egawilldoit` | **⚪ Quiet** | 102 days ago | `Java` | 1 | 0 | 1 |
+| [`ega-budget-house`](https://github.com/MORTAKI0/ega-budget-house) | `MORTAKI0` | **⚪ Quiet** | 111 days ago | `TypeScript` | 0 | 0 | 0 |
+
+<sub>Stage is derived only from public GitHub push recency: 🔥 ≤7d · 🟢 ≤30d · 🟡 ≤90d · ⚪ >90d. It is an activity signal, not a claim about product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
 
 ---
