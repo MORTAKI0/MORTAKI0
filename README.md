@@ -12,6 +12,7 @@
 <a href="https://github.com/MORTAKI0?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/MORTAKI0?style=for-the-badge&logo=star&label=Stars" alt="GitHub stars" /></a>
 <a href="https://github.com/egawilldoit"><img src="https://img.shields.io/badge/EGAWILLDOIT-Building%20in%20public-7c3aed?style=for-the-badge&logo=github" alt="EGAWILLDOIT" /></a>
 <img src="https://komarev.com/ghpvc/?username=MORTAKI0&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/MORTAKI0/MORTAKI0/actions/workflows/update-readme.yml"><img src="https://github.com/MORTAKI0/MORTAKI0/actions/workflows/update-readme.yml/badge.svg" alt="Profile dashboard status" /></a>
 
 </div>
 
@@ -34,7 +35,15 @@
 
 ## 🚦 Live Build Radar
 
-> A dynamic view of what is **actually moving right now** across my public repos and **EGAWILLDOIT**. Refreshed automatically from GitHub activity.
+> A live engineering-motion view across my public repos and **EGAWILLDOIT**. The profile engine refreshes every 6 hours from repository commits, push recency, PR activity, branches, releases, and public GitHub events.
+
+<p align="center">
+  <img src="./assets/live-build-radar.svg" width="100%" alt="Live build velocity dashboard for MORTAKI0 and EGAWILLDOIT" />
+</p>
+
+<details>
+<summary><b>📡 Open live scoring details</b></summary>
+<br />
 
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███░░░░░░░` **28/100** across the 8 hottest public builds
@@ -59,6 +68,8 @@
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
 
+</details>
+
 ---
 
 ## 🚀 EGAWILLDOIT
@@ -72,6 +83,11 @@
 
 **Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) · [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker)
 <!-- EGA_STATS:END -->
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=egawilldoit&theme=tokyonight&animation=stagger&duration=2.8" alt="EGAWILLDOIT live GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=egawilldoit&theme=tokyonight&animation=draw&duration=2.8" alt="EGAWILLDOIT languages" />
+</div>
 
 <table>
 <tr>
@@ -136,8 +152,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## 📊 GitHub pulse
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MORTAKI0&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Abdelilah's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MORTAKI0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MORTAKI0&theme=tokyonight&animation=load&duration=3" alt="Animated GitHub profile summary for Abdelilah MORTAKI" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MORTAKI0&theme=tokyonight&animation=stagger&duration=2.8" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MORTAKI0&theme=tokyonight&animation=draw&duration=2.8" alt="Languages by commits" />
 </div>
 
 <div align="center">
