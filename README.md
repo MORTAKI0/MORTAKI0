@@ -32,6 +32,16 @@
 
 ---
 
+## 🚦 Live Build Radar
+
+> A dynamic view of what is **actually moving right now** across my public repos and **EGAWILLDOIT**. Refreshed automatically from GitHub activity.
+
+<!-- BUILD_STAGES:START -->
+_Stage radar is refreshing from live repository activity._
+<!-- BUILD_STAGES:END -->
+
+---
+
 ## 🚀 EGAWILLDOIT
 
 > **Build useful tools. Run them myself. Open them up when they can help someone else.**
