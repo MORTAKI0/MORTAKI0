@@ -5,6 +5,7 @@ import os
 import re
 import urllib.error
 import urllib.request
+import urllib.parse
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
 from html import escape
@@ -114,6 +115,8 @@ def build_event_index(
 ) -> tuple[dict[str, Counter], Counter]:
     per_repo: dict[str, Counter] = defaultdict(Counter)
     totals = Counter()
+    seen_pr_30d: set[tuple[str, Any]] = set()
+    seen_pr_7d: set[tuple[str, Any]] = set()
 
     cutoff_30 = now - timedelta(days=30)
     cutoff_7 = now - timedelta(days=7)
@@ -134,21 +137,22 @@ def build_event_index(
             totals["events_30d"] += 1
 
         if event_type == "PushEvent":
-            commits = max(0, int(payload.get("size", 0)))
             if in_30:
-                per_repo[repo_name]["commits_30d"] += commits
                 per_repo[repo_name]["pushes_30d"] += 1
-                totals["commits_30d"] += commits
                 totals["pushes_30d"] += 1
             if in_7:
-                totals["commits_7d"] += commits
                 totals["pushes_7d"] += 1
 
         elif event_type == "PullRequestEvent":
-            if in_30:
+            pr = payload.get("pull_request") or {}
+            number = pr.get("number") or payload.get("number")
+            key = (repo_name, number)
+            if in_30 and key not in seen_pr_30d:
+                seen_pr_30d.add(key)
                 per_repo[repo_name]["pr_30d"] += 1
                 totals["pr_30d"] += 1
-            if in_7:
+            if in_7 and key not in seen_pr_7d:
+                seen_pr_7d.add(key)
                 totals["pr_7d"] += 1
 
         elif event_type == "IssuesEvent":
@@ -169,9 +173,33 @@ def build_event_index(
     return per_repo, totals
 
 
+def load_recent_commit_counts(
+    repos: list[dict[str, Any]], now: datetime
+) -> dict[str, int]:
+    since = (now - timedelta(days=30)).isoformat().replace("+00:00", "Z")
+    query = urllib.parse.urlencode({"since": since, "per_page": 100})
+    counts: dict[str, int] = {}
+
+    for repo in repos:
+        full_name = repo.get("full_name")
+        if not full_name:
+            continue
+
+        age = days_since(repo.get("pushed_at") or repo.get("updated_at"), now)
+        if age is None or age > 90:
+            counts[full_name] = 0
+            continue
+
+        commits = github_get(f"/repos/{full_name}/commits?{query}")
+        counts[full_name] = len(commits)
+
+    return counts
+
+
 def velocity_score(
     repo: dict[str, Any],
     repo_events: Counter,
+    commit_count_30d: int,
     now: datetime,
 ) -> tuple[int, int | None]:
     age = days_since(repo.get("pushed_at") or repo.get("updated_at"), now)
@@ -194,7 +222,7 @@ def velocity_score(
         recency = 0
 
     event_points = min(30, int(repo_events.get("events_30d", 0)) * 5)
-    commit_points = min(25, int(repo_events.get("commits_30d", 0)) * 3)
+    commit_points = min(25, commit_count_30d * 3)
 
     return min(100, recency + event_points + commit_points), age
 
@@ -214,13 +242,15 @@ def score_stage(score: int) -> tuple[str, str, str]:
 def rank_builds(
     repos: list[dict[str, Any]],
     per_repo: dict[str, Counter],
+    commit_counts: dict[str, int],
     now: datetime,
 ) -> list[dict[str, Any]]:
     ranked: list[dict[str, Any]] = []
 
     for repo in repos:
         full_name = repo["full_name"]
-        score, age = velocity_score(repo, per_repo.get(full_name, Counter()), now)
+        commit_count = int(commit_counts.get(full_name, 0))
+        score, age = velocity_score(repo, per_repo.get(full_name, Counter()), commit_count, now)
         stage, stage_short, stage_color = score_stage(score)
         metrics = per_repo.get(full_name, Counter())
 
@@ -233,7 +263,7 @@ def rank_builds(
                 "stage_short": stage_short,
                 "stage_color": stage_color,
                 "events_30d": int(metrics.get("events_30d", 0)),
-                "commits_30d": int(metrics.get("commits_30d", 0)),
+                "commits_30d": commit_count,
                 "pr_30d": int(metrics.get("pr_30d", 0)),
             }
         )
@@ -290,7 +320,7 @@ def build_stage_radar(
         f"**Motion index:** `{bar}` **{motion_index}/100** across the 8 hottest public builds",
         "",
         f"**30-day pulse:** **{totals['commits_30d']} commits** · "
-        f"**{totals['pr_30d']} PR moves** · **{totals['branches_30d']} branches** · "
+        f"**{totals['pr_30d']} PRs touched** · **{totals['branches_30d']} branches** · "
         f"**{totals['releases_30d']} releases**",
         "",
         stage_summary,
@@ -358,7 +388,7 @@ def render_velocity_svg(
         ("MOTION", f"{motion_index}/100"),
         ("ACTIVE BUILDS", str(active_count)),
         ("30D COMMITS", str(totals["commits_30d"])),
-        ("30D PR MOVES", str(totals["pr_30d"])),
+        ("30D PRs", str(totals["pr_30d"])),
         ("EGA ACTIVE", str(ega_active)),
     ]
 
@@ -608,7 +638,9 @@ def main() -> None:
         repos = load_public_builds()
         events = load_public_events()
         per_repo, totals = build_event_index(events, now)
-        ranked = rank_builds(repos, per_repo, now)
+        commit_counts = load_recent_commit_counts(repos, now)
+        totals["commits_30d"] = sum(commit_counts.values())
+        ranked = rank_builds(repos, per_repo, commit_counts, now)
     except (urllib.error.URLError, urllib.error.HTTPError) as exc:
         raise RuntimeError(f"could not load public GitHub signals: {exc}") from exc
 
