@@ -37,19 +37,19 @@
 > A dynamic view of what is **actually moving right now** across my public repos and **EGAWILLDOIT**. Refreshed automatically from GitHub activity.
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██░░░░░░░░` **18/100** across the 8 hottest public builds
+**Motion index:** `███░░░░░░░` **28/100** across the 8 hottest public builds
 
-**30-day pulse:** **0 commits** · **57 PR moves** · **52 branches** · **1 releases**
+**30-day pulse:** **166 commits** · **37 PRs touched** · **52 branches** · **1 releases**
 
-🚀 **1** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **2** cooling · ⚪ **39** quiet
+🚀 **1** hot · 🔥 **0** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **39** quiet
 
 **Active stack signal:** `TypeScript` ×2 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **75** | 0 | 295 | today | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟡 Cooling** | **26** | 0 | 0 | 18 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟡 Cooling** | **26** | 0 | 0 | 28 days ago | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 100 | 295 | today | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 48 | 0 | 18 days ago | `TeX` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟢 Active** | **51** | 18 | 0 | 28 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 63 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 78 days ago | `Liquid` |
 | [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 83 days ago | `TypeScript` |
@@ -68,7 +68,7 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **4** | **1** | **1** | **2** | **27/100** |
+| **4** | **1** | **1** | **2** | **40/100** |
 
 **Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) · [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker)
 <!-- EGA_STATS:END -->
