@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - "README.md"
       - "scripts/update_profile.py"
       - ".github/workflows/update-readme.yml"
   schedule:
