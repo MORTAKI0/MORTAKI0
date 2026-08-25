@@ -1,36 +1,138 @@
-# Hey, I'm Abdelilah 👋
+<div align="center">
 
-AI/full-stack dev — building AI-assisted dev tooling & personal productivity apps. Intern @ CGI, working on multi-agent Angular/Java migration pipelines.
+# Hey, I'm Abdelilah MORTAKI 👋
 
-🔗 Also building in the open at [**egawilldoit**](https://github.com/egawilldoit) — tools made for myself first, shared for anyone who wants them.
+### 🧠 AI / Full-Stack Developer · 🤖 Multi-Agent Systems · ⚙️ Developer Tooling
 
----
+<a href="https://github.com/MORTAKI0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=760&lines=Building+AI-assisted+developer+tooling;Engineering+multi-agent+migration+systems;Shipping+full-stack+products;Building+in+public+with+EGAWILLDOIT" alt="Typing SVG" />
+</a>
 
-### 📊 Stats
+<a href="https://github.com/MORTAKI0?tab=followers"><img src="https://img.shields.io/github/followers/MORTAKI0?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+<a href="https://github.com/MORTAKI0?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/MORTAKI0?style=for-the-badge&logo=star&label=Stars" alt="GitHub stars" /></a>
+<a href="https://github.com/egawilldoit"><img src="https://img.shields.io/badge/EGAWILLDOIT-Building%20in%20public-7c3aed?style=for-the-badge&logo=github" alt="EGAWILLDOIT" /></a>
+<img src="https://komarev.com/ghpvc/?username=MORTAKI0&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
 
-![Abdelilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MORTAKI0&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MORTAKI0&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MORTAKI0&theme=tokyonight&hide_border=true)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it is |
-|---|---|
-| [Ega-House-Platform](https://github.com/egawilldoit/Ega-House-Platform) | Next.js/Supabase personal operations dashboard |
-| [doittimer](https://github.com/MORTAKI0/doittimer) | Productivity & time-tracking app (Next.js/Supabase) |
-| [clipflow](https://github.com/MORTAKI0/clipflow) · [downloader](https://github.com/MORTAKI0/clipflow-downloader) | Media clipping/download toolkit |
-| [ebank-backend](https://github.com/MORTAKI0/ebank-backend) | Java banking backend |
-| [Moroccan_Economy_DWH_WEBAPP](https://github.com/MORTAKI0/Moroccan_Economy_DWH_WEBAPP) | Economic data warehouse web app |
+</div>
 
 ---
 
-### 📈 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## 🧠 What I'm building
+
+- 🤖 **AI-assisted developer tooling** — agentic workflows, orchestration, automation, and developer experience.
+- 🧩 **Multi-agent migration systems** — working on Angular/Java modernization pipelines at **CGI**.
+- 🏗️ **Full-stack products** — from web and mobile surfaces to APIs, data, infrastructure, and automation.
+- 🚀 **[EGAWILLDOIT](https://github.com/egawilldoit)** — tools built for myself first, then shared for anyone who finds them useful.
+
+## 🧰 Stack I reach for
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,angular,fastapi,spring,supabase,postgres,docker,git,githubactions,linux&perline=15" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Angular, FastAPI, Spring, Supabase, PostgreSQL, Docker, Git, GitHub Actions and Linux" />
+</div>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=MORTAKI0&color=blue&style=flat)
+## 🚀 EGAWILLDOIT
+
+> **Build useful tools. Run them myself. Open them up when they can help someone else.**
+
+<!-- EGA_STATS:START -->
+| 🗂️ Public repos | ⭐ Stars | 🍴 Forks | 🔄 Active (90d) |
+| ---: | ---: | ---: | ---: |
+| **4** | **1** | **1** | **3** |
+
+**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) · [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker)
+<!-- EGA_STATS:END -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 [EGA House Platform](https://github.com/egawilldoit/Ega-House-Platform)
+
+Productivity platform spanning a **Next.js web app**, **Expo mobile app**, agent-facing task APIs, and an autonomous-delivery runner.
+
+`Next.js` · `TypeScript` · `Expo` · `Supabase` · `Agents`
+
+[**Repository →**](https://github.com/egawilldoit/Ega-House-Platform) · [**Live →**](https://www.egawilldoit.online/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Hermes Mobile](https://github.com/egawilldoit/hermes-mobile)
+
+Mobile companion for the **Hermes self-hosted AI automation agent** — bringing the agent workflow closer to a real mobile surface.
+
+`TypeScript` · `Mobile` · `AI Automation`
+
+[**Repository →**](https://github.com/egawilldoit/hermes-mobile)
+
+</td>
+</tr>
+</table>
+
+**More from EGA:** [🤖 AI Quota Pool Tracker](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) · [🛒 Shop POC](https://github.com/egawilldoit/shoppoc-app)
+
+---
+
+## 🧩 Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ [DoItTimer](https://github.com/MORTAKI0/doittimer)
+
+Task planning, focus sessions, and daily productivity stats in a server-first app with Supabase-backed auth and data.
+
+`Next.js 16` · `React 19` · `TypeScript` · `Supabase` · `Playwright`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [ClipFlow](https://github.com/MORTAKI0/clipflow)
+
+Content automation that schedules TikTok and Instagram videos to Pinterest through Buffer, backed by a FastAPI downloader.
+
+`Next.js` · `FastAPI` · `Buffer` · `Cloudflare R2`
+
+</td>
+</tr>
+</table>
+
+**More public work:** [🧠 AI Text Detector](https://github.com/MORTAKI0/AI_Text_Detector) · [🧬 Brain Tumor CNN](https://github.com/MORTAKI0/brain_tumor_detection_cnn) · [📊 Moroccan Economy DWH](https://github.com/MORTAKI0/Moroccan_Economy_DWH_WEBAPP) · [🏦 eBank](https://github.com/MORTAKI0/ebank-backend)
+
+---
+
+## 📊 GitHub pulse
+
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MORTAKI0&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Abdelilah's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MORTAKI0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MORTAKI0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MORTAKI0&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+</div>
+
+---
+
+## ⚡ Recent public activity
+
+<!-- RECENT_ACTIVITY:START -->
+_This section refreshes automatically from public GitHub activity._
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+<div align="center">
+
+### 🛠️ Build systems · 🚀 Ship useful things · ⚡ Automate the boring parts
+
+**[MORTAKI0](https://github.com/MORTAKI0)** · **[EGAWILLDOIT](https://github.com/egawilldoit)**
+
+</div>
