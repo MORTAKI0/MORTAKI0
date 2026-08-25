@@ -1,6 +1,11 @@
 name: Refresh Profile Dashboard
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_profile.py"
+      - ".github/workflows/update-readme.yml"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
