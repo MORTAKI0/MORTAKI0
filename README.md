@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██░░░░░░░░` **25/100** across the 8 hottest public builds
 
-**30-day pulse:** **408 commits** · **40 PRs touched** · **51 branches** · **2 releases**
+**30-day pulse:** **408 commits** · **36 PRs touched** · **53 branches** · **1 releases**
 
 🚀 **1** hot · 🔥 **0** shipping · 🟢 **1** active · 🟡 **1** cooling · ⚪ **39** quiet
 
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 26, 2026_
+- 🌱 Created branch `ui/web-v2` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
+- 🌱 Created branch `ui/mobile-redesign` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 - 🔀 Merged PR [**#177 docs: refresh agent governance, scoped instructions, and platform context**](https://github.com/egawilldoit/Ega-House-Platform/pull/177) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 26, 2026_
 - 🚀 Published release [**mobile-v1.0.0-rc.178**](https://github.com/egawilldoit/Ega-House-Platform/releases/tag/untagged-b56206410a03f92df36e) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 - 🌱 Created branch `docs/agent-architecture-context-refresh` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Opened PR [**#179 ui(web): EGA Command OS V2 full interface refactor**](https://github.com/egawilldoit/Ega-House-Platform/pull/179) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
-- 🔀 Opened PR [**#178 feat(mobile): EGA House complete UI/UX redesign**](https://github.com/egawilldoit/Ega-House-Platform/pull/178) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 25, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
