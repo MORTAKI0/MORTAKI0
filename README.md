@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██░░░░░░░░` **25/100** across the 8 hottest public builds
 
-**30-day pulse:** **408 commits** · **37 PRs touched** · **49 branches** · **1 releases**
+**30-day pulse:** **408 commits** · **37 PRs touched** · **44 branches** · **1 releases**
 
 🚀 **1** hot · 🔥 **0** shipping · 🟢 **1** active · 🟡 **1** cooling · ⚪ **39** quiet
 
@@ -58,11 +58,11 @@
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 360 | 286 | today | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 48 | 0 | 19 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟡 Cooling** | **26** | 0 | 0 | 29 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **🟡 Cooling** | **26** | 0 | 0 | 30 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 64 days ago | `TypeScript` |
-| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 79 days ago | `Liquid` |
-| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 84 days ago | `TypeScript` |
-| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 103 days ago | `Java` |
+| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 80 days ago | `Liquid` |
+| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 85 days ago | `TypeScript` |
+| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 104 days ago | `Java` |
 | [`ega-budget-house`](https://github.com/MORTAKI0/ega-budget-house) | **⚪ Quiet** | **0** | 0 | 0 | 112 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
