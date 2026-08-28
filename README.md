@@ -48,18 +48,18 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███░░░░░░░` **29/100** across the 8 hottest public builds
 
-**30-day pulse:** **457 commits** · **36 PRs touched** · **28 branches** · **1 releases**
+**30-day pulse:** **457 commits** · **44 PRs touched** · **29 branches** · **1 releases**
 
 🚀 **2** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
-**Active stack signal:** `TeX` ×1 · `TypeScript` ×1
+**Active stack signal:** `TypeScript` ×1 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 61 | 10 | today | `TeX` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 396 | 276 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 396 | 271 | today | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 61 | 15 | 1 day ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 31 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 65 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 66 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 81 days ago | `Liquid` |
 | [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 86 days ago | `TypeScript` |
 | [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 105 days ago | `Java` |
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 26, 2026_
-- 🔀 Opened PR [**#181 feat(notifications): add scalable mobile notification system**](https://github.com/egawilldoit/Ega-House-Platform/pull/181) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 27, 2026_
-- 🔀 Merged PR [**#178 feat(mobile): EGA House complete UI/UX redesign**](https://github.com/egawilldoit/Ega-House-Platform/pull/178) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 27, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
+- 🌱 Created branch `overleaf-2026-08-27-0829` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Aug 27, 2026_
 - ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Aug 27, 2026_
-- 🔀 Opened PR [**#180 chore(mobile): refresh app icon and splash branding**](https://github.com/egawilldoit/Ega-House-Platform/pull/180) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 26, 2026_
-- 🌱 Created branch `wave/mobile-branding-assets` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 26, 2026_
+- 🌱 Created branch `feat/notification-system-v1` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 27, 2026_
+- 🌱 Created branch `feat/smart-inbox` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
+- 🔀 Opened PR [**#190 feat: implement Weekly Review planning (EGA-494) W1-W2**](https://github.com/egawilldoit/Ega-House-Platform/pull/190) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
