@@ -46,24 +46,24 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `███░░░░░░░` **29/100** across the 8 hottest public builds
+**Motion index:** `████░░░░░░` **41/100** across the 8 hottest public builds
 
-**30-day pulse:** **503 commits** · **28 PRs touched** · **24 branches** · **1 releases**
+**30-day pulse:** **539 commits** · **27 PRs touched** · **24 branches** · **1 releases**
 
-🚀 **2** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
+🚀 **3** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
-**Active stack signal:** `TypeScript` ×1 · `TeX` ×1
+**Active stack signal:** `TypeScript` ×2 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 442 | 271 | today | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 61 | 15 | 1 day ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 32 days ago | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 457 | 261 | today | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 21 | 10 | today | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 61 | 15 | 2 days ago | `TeX` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 33 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 67 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 82 days ago | `Liquid` |
-| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 87 days ago | `TypeScript` |
-| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 106 days ago | `Java` |
-| [`ega-budget-house`](https://github.com/MORTAKI0/ega-budget-house) | **⚪ Quiet** | **0** | 0 | 0 | 115 days ago | `TypeScript` |
+| [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 88 days ago | `TypeScript` |
+| [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 107 days ago | `Java` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -79,9 +79,9 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **4** | **1** | **1** | **1** | **30/100** |
+| **5** | **1** | **1** | **2** | **44/100** |
 
-**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) · [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker)
+**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 27, 2026_
-- 🌱 Created branch `chore/retire-hermes-runner` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 27, 2026_
-- 🌱 Created branch `feat/weekly-review-planning` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
-- 🌱 Created branch `feat/intelligence-foundations` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
-- 🌱 Created branch `feat/daily-operator` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
-- 🌱 Created branch `feat/friction-radar` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
+- 🌱 Created branch `fix/mobile-channel-header-check` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
+- 🔀 Opened PR [**#199 fix(mobile): make broken OTAs self-recoverable in v1.0.3**](https://github.com/egawilldoit/Ega-House-Platform/pull/199) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
+- 🔀 Merged PR [**#2 feat: implement hardened ccusage telemetry V1**](https://github.com/egawilldoit/token-observatory/pull/2) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Aug 29, 2026_
+- 🔀 Closed PR [**#1 feat: implement ccusage telemetry V1**](https://github.com/egawilldoit/token-observatory/pull/1) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Aug 29, 2026_
+- ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Aug 29, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
