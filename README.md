@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `████░░░░░░` **41/100** across the 8 hottest public builds
 
-**30-day pulse:** **626 commits** · **27 PRs touched** · **24 branches** · **1 releases**
+**30-day pulse:** **788 commits** · **33 PRs touched** · **25 branches** · **0 releases**
 
 🚀 **3** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,11 +56,11 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 496 | 258 | today | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 69 | 27 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 621 | 215 | today | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 106 | 70 | today | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 61 | 15 | 2 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 33 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 67 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 68 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 83 days ago | `Liquid` |
 | [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **7** | 0 | 0 | 88 days ago | `TypeScript` |
 | [`shoppoc-app`](https://github.com/egawilldoit/shoppoc-app) | **⚪ Quiet** | **0** | 0 | 0 | 107 days ago | `Java` |
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 Merged PR [**#181 feat(notifications): add scalable mobile notification system**](https://github.com/egawilldoit/Ega-House-Platform/pull/181) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
-- 🔀 Merged PR [**#185 feat: add shared intelligence foundations (EGA-523/524/525)**](https://github.com/egawilldoit/Ega-House-Platform/pull/185) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
 - ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Aug 29, 2026_
-- 🌱 Created branch `fix/mobile-expo-project-link` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
-- 🌱 Created branch `fix/audit2-c1-i1-i4` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 28, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
+- 🌱 Created branch `fix/ota-self-recovery-v1.0.3` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
+- 🌱 Created branch `test/ota-v1.0.2-live-proof` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
+- 🌱 Created branch `fix/import-button-noop` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Aug 29, 2026_
+- 🔀 Merged PR [**#203 chore: limit automatic server Vercel deployments**](https://github.com/egawilldoit/Ega-House-Platform/pull/203) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Aug 29, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
