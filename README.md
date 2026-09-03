@@ -46,9 +46,9 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `█████░░░░░` **52/100** across the 8 hottest public builds
+**Motion index:** `█████░░░░░` **53/100** across the 8 hottest public builds
 
-**30-day pulse:** **1076 commits** · **12 PRs touched** · **28 branches** · **0 releases**
+**30-day pulse:** **1100 commits** · **12 PRs touched** · **28 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **0** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,12 +56,12 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 131 | 82 | today | `TeX` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **100** | 127 | 105 | today | `TypeScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 686 | 46 | 2 days ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 132 | 67 | 3 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 156 | 77 | today | `TeX` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **100** | 127 | 115 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 685 | 45 | today | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 132 | 63 | 3 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 37 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 71 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 72 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 87 days ago | `Liquid` |
 | [`AI-Quota-Pool-Tracker`](https://github.com/egawilldoit/AI-Quota-Pool-Tracker) | **⚪ Quiet** | **0** | 0 | 0 | 92 days ago | `TypeScript` |
 
@@ -79,7 +79,7 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **5** | **1** | **1** | **2** | **41/100** |
+| **5** | **1** | **1** | **2** | **42/100** |
 
 **Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile)
 <!-- EGA_STATS:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 01, 2026_
 - ⚡ Updated [`MORTAKI0/demo_frontend`](https://github.com/MORTAKI0/demo_frontend) — _Sep 02, 2026_
+- ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 01, 2026_
+- 🔀 Opened PR [**#208 chore: lock feature-wave Vercel deployments**](https://github.com/egawilldoit/Ega-House-Platform/pull/208) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 02, 2026_
+- 🌱 Created branch `feat/proven-transformer-runtime` in [`MORTAKI0/demo_frontend`](https://github.com/MORTAKI0/demo_frontend) — _Sep 02, 2026_
 - 🌱 Created branch `overleaf-2026-09-01-2240` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 01, 2026_
 - 🌱 Created branch `overleaf-2026-09-01-1252` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 01, 2026_
-- 🔀 Merged PR [**#3 fix: render governed repair diffs as unified Git patches**](https://github.com/MORTAKI0/demo_frontend/pull/3) in [`MORTAKI0/demo_frontend`](https://github.com/MORTAKI0/demo_frontend) — _Sep 02, 2026_
-- 🔀 Merged PR [**#2 feat: add Angular 15 to 16 governed tooling repair demo**](https://github.com/MORTAKI0/demo_frontend/pull/2) in [`MORTAKI0/demo_frontend`](https://github.com/MORTAKI0/demo_frontend) — _Sep 02, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
