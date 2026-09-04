@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **61/100** across the 8 hottest public builds
 
-**30-day pulse:** **1216 commits** · **44 PRs touched** · **32 branches** · **0 releases**
+**30-day pulse:** **1255 commits** · **53 PRs touched** · **34 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 190 | 78 | today | `TeX` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 67 | 69 | today | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 700 | 64 | today | `TypeScript` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **95** | 127 | 89 | 2 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 195 | 66 | today | `TeX` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 91 | 103 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 710 | 80 | today | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **95** | 127 | 51 | 2 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **65** | 132 | 0 | 5 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 39 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 73 days ago | `TypeScript` |
-| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 88 days ago | `Liquid` |
+| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 89 days ago | `Liquid` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 Merged PR [**#215 Wave 06: audit real mobile runtime**](https://github.com/egawilldoit/Ega-House-Platform/pull/215) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
-- 🔀 Merged PR [**#22 EGA-566: Implement skill discovery and transactional importer pipeline**](https://github.com/egawilldoit/ega-skills/pull/22) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#214 Wave 05: web UX quality**](https://github.com/egawilldoit/Ega-House-Platform/pull/214) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- 🔀 Opened PR [**#34 EGA-583: Implement ProjectConfigV1 schema, defaults and init command**](https://github.com/egawilldoit/ega-skills/pull/34) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🔀 Merged PR [**#33 EGA-582: Implement effective project path and nearest config discovery (SPEC-005 §5.1.1–§5.1.4)**](https://github.com/egawilldoit/ega-skills/pull/33) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🔀 Merged PR [**#226 Wave 16 — full verification and current-main reconciliation**](https://github.com/egawilldoit/Ega-House-Platform/pull/226) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- 🌱 Created branch `overleaf-2026-09-02-2137` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
 - ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 03, 2026_
-- 🌱 Created branch `overleaf-2026-09-02-2132` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
+- 🌱 Created branch `overleaf-2026-09-02-2127` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
