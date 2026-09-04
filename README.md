@@ -46,22 +46,22 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **62/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **61/100** across the 8 hottest public builds
 
-**30-day pulse:** **1158 commits** · **36 PRs touched** · **30 branches** · **0 releases**
+**30-day pulse:** **1216 commits** · **44 PRs touched** · **32 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
-**Active stack signal:** `TypeScript` ×3 · `JavaScript` ×1 · `TeX` ×1
+**Active stack signal:** `TypeScript` ×3 · `TeX` ×1 · `JavaScript` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 48 | 33 | today | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 695 | 40 | today | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 156 | 103 | 1 day ago | `TeX` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **100** | 127 | 124 | 1 day ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **65** | 132 | 0 | 4 days ago | `TypeScript` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 38 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 190 | 78 | today | `TeX` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 67 | 69 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 700 | 64 | today | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **95** | 127 | 89 | 2 days ago | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **65** | 132 | 0 | 5 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 39 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 73 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 88 days ago | `Liquid` |
 
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 Merged PR [**#14 EGA-556: L0/L1/L2 metadata and content-size rules**](https://github.com/egawilldoit/ega-skills/pull/14) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#13 EGA-555: alias collision contract in schema layer**](https://github.com/egawilldoit/ega-skills/pull/13) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#12 EGA-557: ega-o200k-v1 estimator and frozen vectors**](https://github.com/egawilldoit/ega-skills/pull/12) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#11 EGA-554: ega.yaml schema and routing normalization**](https://github.com/egawilldoit/ega-skills/pull/11) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#10 EGA-553: namespace, canonical ID and skill-reference resolution**](https://github.com/egawilldoit/ega-skills/pull/10) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Merged PR [**#9 EGA-551: minimal ega-skills CLI entrypoint and version**](https://github.com/egawilldoit/ega-skills/pull/9) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🔀 Merged PR [**#215 Wave 06: audit real mobile runtime**](https://github.com/egawilldoit/Ega-House-Platform/pull/215) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- 🔀 Merged PR [**#22 EGA-566: Implement skill discovery and transactional importer pipeline**](https://github.com/egawilldoit/ega-skills/pull/22) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🔀 Merged PR [**#214 Wave 05: web UX quality**](https://github.com/egawilldoit/Ega-House-Platform/pull/214) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 03, 2026_
+- 🌱 Created branch `overleaf-2026-09-02-2132` in [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 02, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
