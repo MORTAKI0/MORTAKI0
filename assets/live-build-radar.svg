@@ -23,19 +23,19 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 </circle>
 <text x="62" y="50" class="main" font-size="27" font-weight="800">LIVE BUILD VELOCITY</text>
 <text x="62" y="76" class="muted" font-size="14">MORTAKI0 + EGAWILLDOIT · generated from public GitHub signals</text>
-<text x="1138" y="50" class="muted" font-size="13" text-anchor="end">2026-09-04 04:35 UTC</text>
+<text x="1138" y="50" class="muted" font-size="13" text-anchor="end">2026-09-04 11:19 UTC</text>
 <rect x="32.0" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="50.0" y="122" class="muted" font-size="11" font-weight="700">MOTION</text>
-<text x="50.0" y="150" class="main" font-size="23" font-weight="800">64/100</text>
+<text x="50.0" y="150" class="main" font-size="23" font-weight="800">62/100</text>
 <rect x="261.6" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="279.6" y="122" class="muted" font-size="11" font-weight="700">ACTIVE BUILDS</text>
 <text x="279.6" y="150" class="main" font-size="23" font-weight="800">5</text>
 <rect x="491.2" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="509.2" y="122" class="muted" font-size="11" font-weight="700">30D COMMITS</text>
-<text x="509.2" y="150" class="main" font-size="23" font-weight="800">1113</text>
+<text x="509.2" y="150" class="main" font-size="23" font-weight="800">1158</text>
 <rect x="720.8" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="738.8" y="122" class="muted" font-size="11" font-weight="700">30D PRs</text>
-<text x="738.8" y="150" class="main" font-size="23" font-weight="800">30</text>
+<text x="738.8" y="150" class="main" font-size="23" font-weight="800">36</text>
 <rect x="950.4" y="96" width="217.6" height="70" rx="14" fill="#161b22" stroke="#30363d"/>
 <text x="968.4" y="122" class="muted" font-size="11" font-weight="700">EGA ACTIVE</text>
 <text x="968.4" y="150" class="main" font-size="23" font-weight="800">3</text>
@@ -46,11 +46,11 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 <text x="1138" y="195" class="muted" font-size="11" font-weight="700" text-anchor="end">SCORE</text>
 <g class="row" style="animation-delay:0.00s">
 <rect x="30" y="214" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
-<text x="48" y="236" class="main" font-size="16" font-weight="700">Ega-House-Platform</text>
+<text x="48" y="236" class="main" font-size="16" font-weight="700">ega-skills</text>
 <text x="48" y="254" class="muted" font-size="11">EGA · today</text>
 <circle cx="414" cy="240" r="5" fill="#f97316"/>
 <text x="429" y="245" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="245" class="muted" font-size="12">693c · 41e</text>
+<text x="595" y="245" class="muted" font-size="12">48c · 33e</text>
 <rect x="730" y="233" width="360" height="12" rx="6" fill="#21262d"/>
 <rect x="730" y="233" width="360" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.0s" fill="freeze"/>
@@ -59,11 +59,11 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 </g>
 <g class="row" style="animation-delay:0.08s">
 <rect x="30" y="278" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
-<text x="48" y="300" class="main" font-size="16" font-weight="700">Rapport-Pfe-2026</text>
-<text x="48" y="318" class="muted" font-size="11">ME · 1 day ago</text>
+<text x="48" y="300" class="main" font-size="16" font-weight="700">Ega-House-Platform</text>
+<text x="48" y="318" class="muted" font-size="11">EGA · today</text>
 <circle cx="414" cy="304" r="5" fill="#f97316"/>
 <text x="429" y="309" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="309" class="muted" font-size="12">156c · 91e</text>
+<text x="595" y="309" class="muted" font-size="12">695c · 40e</text>
 <rect x="730" y="297" width="360" height="12" rx="6" fill="#21262d"/>
 <rect x="730" y="297" width="360" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.1s" fill="freeze"/>
@@ -72,11 +72,11 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 </g>
 <g class="row" style="animation-delay:0.16s">
 <rect x="30" y="342" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
-<text x="48" y="364" class="main" font-size="16" font-weight="700">demo_frontend</text>
+<text x="48" y="364" class="main" font-size="16" font-weight="700">Rapport-Pfe-2026</text>
 <text x="48" y="382" class="muted" font-size="11">ME · 1 day ago</text>
 <circle cx="414" cy="368" r="5" fill="#f97316"/>
 <text x="429" y="373" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="373" class="muted" font-size="12">127c · 143e</text>
+<text x="595" y="373" class="muted" font-size="12">156c · 103e</text>
 <rect x="730" y="361" width="360" height="12" rx="6" fill="#21262d"/>
 <rect x="730" y="361" width="360" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.2s" fill="freeze"/>
@@ -85,29 +85,29 @@ text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
 </g>
 <g class="row" style="animation-delay:0.24s">
 <rect x="30" y="406" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
-<text x="48" y="428" class="main" font-size="16" font-weight="700">token-observatory</text>
-<text x="48" y="446" class="muted" font-size="11">EGA · 4 days ago</text>
+<text x="48" y="428" class="main" font-size="16" font-weight="700">demo_frontend</text>
+<text x="48" y="446" class="muted" font-size="11">ME · 1 day ago</text>
 <circle cx="414" cy="432" r="5" fill="#f97316"/>
 <text x="429" y="437" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="437" class="muted" font-size="12">132c · 15e</text>
+<text x="595" y="437" class="muted" font-size="12">127c · 124e</text>
 <rect x="730" y="425" width="360" height="12" rx="6" fill="#21262d"/>
-<rect x="730" y="425" width="342" height="12" rx="6" fill="url(#bar)">
+<rect x="730" y="425" width="360" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.3s" fill="freeze"/>
 </rect>
-<text x="1138" y="437" class="main" font-size="14" font-weight="800" text-anchor="end">95</text>
+<text x="1138" y="437" class="main" font-size="14" font-weight="800" text-anchor="end">100</text>
 </g>
 <g class="row" style="animation-delay:0.32s">
 <rect x="30" y="470" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
-<text x="48" y="492" class="main" font-size="16" font-weight="700">ega-skills</text>
-<text x="48" y="510" class="muted" font-size="11">EGA · today</text>
-<circle cx="414" cy="496" r="5" fill="#f97316"/>
-<text x="429" y="501" class="main" font-size="12" font-weight="700">HOT</text>
-<text x="595" y="501" class="muted" font-size="12">5c · 10e</text>
+<text x="48" y="492" class="main" font-size="16" font-weight="700">token-observatory</text>
+<text x="48" y="510" class="muted" font-size="11">EGA · 4 days ago</text>
+<circle cx="414" cy="496" r="5" fill="#ef4444"/>
+<text x="429" y="501" class="main" font-size="12" font-weight="700">SHIPPING</text>
+<text x="595" y="501" class="muted" font-size="12">132c · 0e</text>
 <rect x="730" y="489" width="360" height="12" rx="6" fill="#21262d"/>
-<rect x="730" y="489" width="324" height="12" rx="6" fill="url(#bar)">
+<rect x="730" y="489" width="234" height="12" rx="6" fill="url(#bar)">
 <animate attributeName="opacity" values=".55;1" dur="1.4s" fill="freeze"/>
 </rect>
-<text x="1138" y="501" class="main" font-size="14" font-weight="800" text-anchor="end">90</text>
+<text x="1138" y="501" class="main" font-size="14" font-weight="800" text-anchor="end">65</text>
 </g>
 <g class="row" style="animation-delay:0.40s">
 <rect x="30" y="534" width="1140" height="52" rx="12" fill="#0f1720" stroke="#21262d"/>
