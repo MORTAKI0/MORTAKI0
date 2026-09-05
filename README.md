@@ -46,20 +46,20 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **61/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **58/100** across the 8 hottest public builds
 
-**30-day pulse:** **1295 commits** · **61 PRs touched** · **33 branches** · **0 releases**
+**30-day pulse:** **1303 commits** · **65 PRs touched** · **36 branches** · **0 releases**
 
-🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
+🚀 **3** hot · 🔥 **2** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
 **Active stack signal:** `TypeScript` ×3 · `TeX` ×1 · `JavaScript` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 195 | 51 | today | `TeX` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 714 | 89 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 127 | 151 | today | `JavaScript` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **95** | 127 | 9 | 2 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 195 | 34 | today | `TeX` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 720 | 97 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 129 | 168 | today | `JavaScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **70** | 127 | 1 | 2 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **65** | 132 | 0 | 5 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 39 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 74 days ago | `TypeScript` |
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- 🔀 Merged PR [**#233 feat(mobile): refresh session proactively on app foreground**](https://github.com/egawilldoit/Ega-House-Platform/pull/233) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
+- 🔀 Opened PR [**#42 EGA-589: Enforce MCP project realpath, offline and read-only runtime boundaries**](https://github.com/egawilldoit/ega-skills/pull/42) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 03, 2026_
+- 🔀 Merged PR [**#232 chore(mobile): remove unreachable Expo template leftovers**](https://github.com/egawilldoit/Ega-House-Platform/pull/232) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
+- 🔀 Merged PR [**#231 feat(mobile): add task detail action for Today**](https://github.com/egawilldoit/Ega-House-Platform/pull/231) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
 - ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 04, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🌱 Created branch `abmortaki/ega-569-w3spec-003-implement-deterministic-fts5-search-and-safe` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Opened PR [**#229 chore(mobile): refresh EGA app icon and splash branding**](https://github.com/egawilldoit/Ega-House-Platform/pull/229) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
-- 🔀 Merged PR [**#40 EGA-581: Add precision scenarios, determinism x10 and router performance gate**](https://github.com/egawilldoit/ega-skills/pull/40) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
