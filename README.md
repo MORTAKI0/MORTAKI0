@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **62/100** across the 8 hottest public builds
 
-**30-day pulse:** **1401 commits** · **40 PRs touched** · **34 branches** · **1 releases**
+**30-day pulse:** **1409 commits** · **34 PRs touched** · **42 branches** · **2 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 193 | 43 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 181 | 134 | today | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 732 | 99 | today | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 168 | 24 | 1 day ago | `TeX` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 196 | 143 | today | `JavaScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 198 | 70 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 732 | 78 | today | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **100** | 156 | 9 | 1 day ago | `TeX` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 3 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 40 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 74 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 75 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 90 days ago | `Liquid` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **6** | **1** | **1** | **3** | **52/100** |
 
-**Freshest builds:** [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform)
+**Freshest builds:** [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Created branch `abmortaki/ega-588-w6spec-006-build-servestdio-mcp-server-skeleton-and-protocol` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
-- 🔀 Merged PR [**#16 feat: add OpenCode Go Tracker V1**](https://github.com/egawilldoit/token-observatory/pull/16) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 05, 2026_
-- ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 05, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 03, 2026_
-- 🚀 Published release [**v1.0.0**](https://github.com/egawilldoit/ega-skills/releases/tag/v1.0.0) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
-- 🌱 Created branch `wave/06-mobile-runtime-audit` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 03, 2026_
+- 🌱 Created branch `wave/16-full-verification` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🌱 Created branch `abmortaki/ega-564-w3spec-003-create-sqlite-schema-migrations-and-local-home` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🌱 Created branch `abmortaki/ega-548-549-w0-dependencies-and-ci` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- 🌱 Created branch `main` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 03, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
