@@ -46,9 +46,9 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **59/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **60/100** across the 8 hottest public builds
 
-**30-day pulse:** **1438 commits** · **30 PRs touched** · **39 branches** · **2 releases**
+**30-day pulse:** **1438 commits** · **30 PRs touched** · **41 branches** · **2 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -57,13 +57,13 @@
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 205 | 145 | today | `JavaScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 99 | today | `TypeScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 732 | 54 | 1 day ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **80** | 156 | 2 | 1 day ago | `TeX` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 98 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 732 | 48 | 1 day ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 9 | 2 days ago | `TeX` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 4 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 41 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 75 days ago | `TypeScript` |
-| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **7** | 0 | 0 | 90 days ago | `Liquid` |
+| [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **0** | 0 | 0 | 91 days ago | `Liquid` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
-- 🔀 Opened PR [**#74 EGA-627: 1.1[E] complete Hub builder with fresh-registry gate**](https://github.com/egawilldoit/ega-skills/pull/74) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
-- 🌱 Created branch `abmortaki/ega-627-11e-hub-builder` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
+- ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 04, 2026_
+- 🔀 Opened PR [**#75 EGA-628: 1.1[F] release-scoped semantic state from BuildResult**](https://github.com/egawilldoit/ega-skills/pull/75) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
 - ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🔀 Opened PR [**#73 EGA-626: 1.1[D] crash-safe adoption with journal and exact apply**](https://github.com/egawilldoit/ega-skills/pull/73) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
-- 🔀 Merged PR [**#20 OpenCode Go Ledger UI — compact comparison console redesign**](https://github.com/egawilldoit/token-observatory/pull/20) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 06, 2026_
+- 🌱 Created branch `abmortaki/ega-555-w1spec-001-implement-alias-collision-contract-in-schema` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 04, 2026_
+- 🌱 Created branch `abmortaki/ega-563-w2spec-002-add-cross-platform-frozen-hash-fixture-suite` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
