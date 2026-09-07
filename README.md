@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **60/100** across the 8 hottest public builds
 
-**30-day pulse:** **1469 commits** · **18 PRs touched** · **32 branches** · **1 releases**
+**30-day pulse:** **1447 commits** · **17 PRs touched** · **34 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,10 +56,10 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 198 | today | `JavaScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 49 | today | `TypeScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 732 | 28 | 1 day ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 25 | 2 days ago | `TeX` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 201 | today | `JavaScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 38 | today | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 27 | 2 days ago | `TeX` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 710 | 34 | 2 days ago | `TypeScript` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 4 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 41 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 76 days ago | `TypeScript` |
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🌱 Created branch `abmortaki/ega-578-w4spec-004-implement-evidence-based-confidence-and-reason` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- ⚡ Updated [`MORTAKI0/Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) — _Sep 04, 2026_
-- 🌱 Created branch `abmortaki/ega-581-w4test-001-add-precision-scenarios-determinism-x10-and` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🌱 Created branch `abmortaki/ega-580-w4test-001-build-base-34-router-golden-scenarios` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
-- 🌱 Created branch `abmortaki/ega-574-w4spec-004-implement-automatic-hard-filters` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 04, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
+- 🔀 Opened PR [**#77 Review checkpoint: full local 1.1–1.3 implementation at b0b413e**](https://github.com/egawilldoit/ega-skills/pull/77) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
+- 🌱 Created branch `review/full-1.3-checkpoint-b0b413e` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
+- 🌱 Created branch `release/mobile-v1.0.5` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
+- 🌱 Created branch `feat/mobile-ega-branding` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 05, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
