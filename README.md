@@ -46,21 +46,21 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `███████░░░` **68/100** across the 8 hottest public builds
+**Motion index:** `███████░░░` **70/100** across the 8 hottest public builds
 
-**30-day pulse:** **1364 commits** · **11 PRs touched** · **42 branches** · **0 releases**
+**30-day pulse:** **1321 commits** · **10 PRs touched** · **42 branches** · **0 releases**
 
-🚀 **4** hot · 🔥 **2** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
+🚀 **5** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
 **Active stack signal:** `TypeScript` ×3 · `JavaScript` ×1 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 207 | today | `JavaScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 202 | today | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 221 | 42 | today | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 20 | 3 days ago | `TeX` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 622 | 28 | 3 days ago | `TypeScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **66** | 2 | 3 | today | `—` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 579 | 28 | 3 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 18 | 4 days ago | `TeX` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 10 | today | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 6 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 43 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 77 days ago | `TypeScript` |
@@ -79,7 +79,7 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **7** | **1** | **1** | **4** | **54/100** |
+| **7** | **1** | **1** | **4** | **56/100** |
 
 **Freshest builds:** [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform)
 <!-- EGA_STATS:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🌱 Created branch `abmortaki/ega-626-11d-crash-safe-adoption-merge` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
 - ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 08, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 08, 2026_
+- 🔀 Opened PR [**#79 1.1 release integration: Hub adoption, updates, and immutable HubRelease**](https://github.com/egawilldoit/ega-skills/pull/79) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 08, 2026_
+- 🌱 Created branch `abmortaki/ega-626-11d-crash-safe-adoption-merge` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
 - 🌱 Created branch `feat/v1-implementation` in [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 08, 2026_
 - 🔀 Merged PR [**#21 fix: preserve historical ccusage rows on overlap omission**](https://github.com/egawilldoit/token-observatory/pull/21) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 08, 2026_
-- 🌱 Created branch `fix/ccusage-preserve-missing-overlap` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 08, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
