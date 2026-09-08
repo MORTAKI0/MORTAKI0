@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **60/100** across the 8 hottest public builds
 
-**30-day pulse:** **1382 commits** · **14 PRs touched** · **36 branches** · **0 releases**
+**30-day pulse:** **1382 commits** · **11 PRs touched** · **37 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 210 | today | `JavaScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 29 | 1 day ago | `TypeScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 645 | 34 | 2 days ago | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 209 | today | `JavaScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 218 | 35 | 1 day ago | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 645 | 29 | 2 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 27 | 3 days ago | `TeX` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 5 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 42 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 76 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 77 days ago | `TypeScript` |
 | [`pod-store-shopify`](https://github.com/MORTAKI0/pod-store-shopify) | **⚪ Quiet** | **0** | 0 | 0 | 92 days ago | `Liquid` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 05, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
+- 🌱 Created branch `feat/opencode-go-tracker-v2` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 06, 2026_
+- 🌱 Created branch `abmortaki/ega-624-11b-hub-source-schemas` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
+- ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 06, 2026_
+- 🌱 Created branch `abmortaki/ega-620-contract-a-hub-sources` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
 - 🌱 Created branch `abmortaki/ega-604-w9-publish-v1-release-notes-tag-and-operator-setup-docs` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
-- 🌱 Created branch `abmortaki/ega-617-v101-release-version-bump-docs-notes-tag` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 06, 2026_
-- 🌱 Created branch `fix/opencode-go-excel-wall-clock` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 05, 2026_
-- 🌱 Created branch `abmortaki/ega-615-v101-safe-exact-supporting-file-access-through-the-existing` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 05, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
