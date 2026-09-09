@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███████░░░` **70/100** across the 8 hottest public builds
 
-**30-day pulse:** **1321 commits** · **10 PRs touched** · **42 branches** · **0 releases**
+**30-day pulse:** **1279 commits** · **6 PRs touched** · **40 branches** · **0 releases**
 
 🚀 **5** hot · 🔥 **1** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 202 | today | `JavaScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 187 | today | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 221 | 42 | today | `TypeScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 579 | 28 | 3 days ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 18 | 4 days ago | `TeX` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 10 | today | `—` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 537 | 28 | 3 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🚀 Hot** | **95** | 156 | 11 | 4 days ago | `TeX` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 32 | today | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **65** | 127 | 0 | 6 days ago | `TypeScript` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 43 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 77 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 78 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 08, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 08, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
+- ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 09, 2026_
+- 🌱 Created branch `repair/pr77-release-readiness` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
 - 🔀 Opened PR [**#79 1.1 release integration: Hub adoption, updates, and immutable HubRelease**](https://github.com/egawilldoit/ega-skills/pull/79) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 08, 2026_
 - 🌱 Created branch `abmortaki/ega-626-11d-crash-safe-adoption-merge` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 07, 2026_
 - 🌱 Created branch `feat/v1-implementation` in [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 08, 2026_
-- 🔀 Merged PR [**#21 fix: preserve historical ccusage rows on overlap omission**](https://github.com/egawilldoit/token-observatory/pull/21) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Sep 08, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
