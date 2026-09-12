@@ -46,7 +46,7 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **65/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **64/100** across the 8 hottest public builds
 
 **30-day pulse:** **1213 commits** · **10 PRs touched** · **34 branches** · **0 releases**
 
@@ -59,9 +59,9 @@
 | [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **95** | 236 | 185 | 2 days ago | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 221 | 43 | 4 days ago | `TypeScript` |
 | [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **85** | 468 | 4 | 7 days ago | `TypeScript` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 2 | today | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 2 | 1 day ago | `TypeScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 66 | 3 days ago | `—` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **65** | 156 | 0 | 7 days ago | `TeX` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **59** | 156 | 0 | 8 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 47 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 81 days ago | `TypeScript` |
 
