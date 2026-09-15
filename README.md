@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 497 | 57 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 153 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 497 | 59 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 151 | today | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 221 | 8 | 7 days ago | `TypeScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 79 | today | `—` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 3 days ago | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 4 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **59** | 156 | 0 | 10 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 49 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 50 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 84 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -173,9 +173,9 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 15, 2026_
 - ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 15, 2026_
 - 🔀 Opened PR [**#250 Improve sidebar responsiveness and accessibility**](https://github.com/egawilldoit/Ega-House-Platform/pull/250) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 15, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 15, 2026_
 - ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 13, 2026_
 - 🌱 Created branch `integrate/v1-corrections` in [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 13, 2026_
 - 🔀 Merged PR [**#247 EGA-655: clarify Analytics hierarchy and visualization**](https://github.com/egawilldoit/Ega-House-Platform/pull/247) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 15, 2026_
