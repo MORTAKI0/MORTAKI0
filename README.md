@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **64/100** across the 8 hottest public builds
 
-**30-day pulse:** **1248 commits** · **25 PRs touched** · **30 branches** · **0 releases**
+**30-day pulse:** **1257 commits** · **28 PRs touched** · **30 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **2** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 503 | 76 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 141 | today | `JavaScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 78 | today | `—` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 4 days ago | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 142 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 512 | 83 | today | `TypeScript` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **81** | 2 | 70 | today | `—` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 5 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **69** | 221 | 2 | 8 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **59** | 156 | 0 | 11 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 50 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 51 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 85 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **7** | **1** | **1** | **4** | **52/100** |
 
-**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Update-OPS`](https://github.com/egawilldoit/Update-OPS)
+**Freshest builds:** [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`Update-OPS`](https://github.com/egawilldoit/Update-OPS)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- 🔀 Opened PR [**#251 feat(web): center quick task composer dialog**](https://github.com/egawilldoit/Ega-House-Platform/pull/251) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
-- 🌱 Created branch `feat/centered-quick-task-modal` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 15, 2026_
-- ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 14, 2026_
-- 🌱 Created branch `chore/fix-auth-e2e-password-selector` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 14, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 14, 2026_
+- 🔀 Opened PR [**#93 fix(mcp): force Vercel server entrypoint**](https://github.com/egawilldoit/ega-skills/pull/93) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 16, 2026_
+- 🔀 Merged PR [**#253 feat(web): integrate sidebar navigation states**](https://github.com/egawilldoit/Ega-House-Platform/pull/253) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
+- 🔀 Merged PR [**#92 fix(deps): allow better-sqlite3 build script for Vercel**](https://github.com/egawilldoit/ega-skills/pull/92) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 16, 2026_
+- 🔀 Merged PR [**#252 polish(web): refine quick task composer and create action**](https://github.com/egawilldoit/Ega-House-Platform/pull/252) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
+- 🔀 Merged PR [**#251 feat(web): center quick task composer dialog**](https://github.com/egawilldoit/Ega-House-Platform/pull/251) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
