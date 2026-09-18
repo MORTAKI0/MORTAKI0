@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **63/100** across the 8 hottest public builds
 
-**30-day pulse:** **1260 commits** · **30 PRs touched** · **38 branches** · **0 releases**
+**30-day pulse:** **1260 commits** · **28 PRs touched** · **40 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **2** shipping · 🟢 **0** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,12 +56,12 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 515 | 120 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 123 | 1 day ago | `JavaScript` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 6 days ago | `TypeScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 52 | 2 days ago | `—` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 122 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 515 | 121 | today | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🚀 Hot** | **80** | 130 | 3 | 7 days ago | `TypeScript` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 52 | 3 days ago | `—` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **69** | 221 | 2 | 10 days ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **59** | 156 | 0 | 13 days ago | `TeX` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🔥 Shipping** | **59** | 156 | 0 | 14 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 53 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 87 days ago | `TypeScript` |
 
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **7** | **1** | **1** | **4** | **51/100** |
 
-**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Update-OPS`](https://github.com/egawilldoit/Update-OPS)
+**Freshest builds:** [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`Update-OPS`](https://github.com/egawilldoit/Update-OPS)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
-- 🌱 Created branch `hotfix/vercel-pnpm-build` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 16, 2026_
-- 🔀 Opened PR [**#255 refactor(web): polish analytics dashboard hierarchy**](https://github.com/egawilldoit/Ega-House-Platform/pull/255) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 17, 2026_
-- 🌱 Created branch `feat/quick-task-composer-polish` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 16, 2026_
-- 🌱 Created branch `feat/analytics-dashboard-polish-21st` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 17, 2026_
-- 🌱 Created branch `codex/vercel-entrypoint` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 16, 2026_
+- 🔀 Merged PR [**#96 feat(supabase): delegated OAuth database containment (PR 3/4)**](https://github.com/egawilldoit/ega-skills/pull/96) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
+- 🔀 Merged PR [**#95 feat(oauth-ui): Supabase OAuth login and consent UI (PR 2/4)**](https://github.com/egawilldoit/ega-skills/pull/95) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
+- 🔀 Merged PR [**#94 feat(mcp): OAuth resource-server foundation (PR 1/4)**](https://github.com/egawilldoit/ega-skills/pull/94) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
+- 🌱 Created branch `feat/oauth-delegated-containment` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
+- 🌱 Created branch `feat/oauth-ui` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 18, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
