@@ -60,7 +60,7 @@
 | [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 515 | 125 | 2 days ago | `TypeScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 30 | 4 days ago | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **74** | 130 | 3 | 8 days ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 11 days ago | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 12 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 15 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 54 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 89 days ago | `TypeScript` |
