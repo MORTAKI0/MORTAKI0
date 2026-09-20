@@ -62,7 +62,7 @@
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **74** | 130 | 3 | 8 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 12 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 15 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 54 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 55 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 89 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -173,8 +173,8 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 19, 2026_
 - 🌱 Created branch `codex/intake-p01` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 19, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 - 🔀 Opened PR [**#110 feat: prove intake to publication workflow**](https://github.com/egawilldoit/ega-skills/pull/110) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 - 🌱 Created branch `codex/intake-p12` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 - 🔀 Opened PR [**#109 feat: add retained release serving**](https://github.com/egawilldoit/ega-skills/pull/109) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
