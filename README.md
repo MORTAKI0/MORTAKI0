@@ -46,9 +46,9 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **60/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **58/100** across the 8 hottest public builds
 
-**30-day pulse:** **1260 commits** · **40 PRs touched** · **48 branches** · **0 releases**
+**30-day pulse:** **1255 commits** · **42 PRs touched** · **47 branches** · **0 releases**
 
 🚀 **3** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 142 | today | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 515 | 125 | 2 days ago | `TypeScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 30 | 5 days ago | `—` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **74** | 130 | 3 | 9 days ago | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 160 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 510 | 125 | 3 days ago | `TypeScript` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 15 | 5 days ago | `—` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 9 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 12 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 16 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 55 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 89 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 90 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -174,11 +174,11 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 
 <!-- RECENT_ACTIVITY:START -->
 - ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
-- 🌱 Created branch `codex/intake-p05` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 19, 2026_
-- 🌱 Created branch `codex/intake-p01` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 19, 2026_
-- 🔀 Opened PR [**#110 feat: prove intake to publication workflow**](https://github.com/egawilldoit/ega-skills/pull/110) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
-- 🌱 Created branch `codex/intake-p12` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
-- 🔀 Opened PR [**#109 feat: add retained release serving**](https://github.com/egawilldoit/ega-skills/pull/109) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
+- 🔀 Merged PR [**#112 feat: deliver intake-to-publication workflow**](https://github.com/egawilldoit/ega-skills/pull/112) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
+- 🔀 Merged PR [**#111 fix: harden intake publication and retained serving**](https://github.com/egawilldoit/ega-skills/pull/111) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
+- 🔀 Merged PR [**#110 feat: prove intake to publication workflow**](https://github.com/egawilldoit/ega-skills/pull/110) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
+- 🔀 Merged PR [**#109 feat: add retained release serving**](https://github.com/egawilldoit/ega-skills/pull/109) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
+- 🔀 Merged PR [**#108 P10: add immutable release preview and export**](https://github.com/egawilldoit/ega-skills/pull/108) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
