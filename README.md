@@ -46,9 +46,9 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `██████░░░░` **58/100** across the 8 hottest public builds
+**Motion index:** `██████░░░░` **57/100** across the 8 hottest public builds
 
-**30-day pulse:** **1220 commits** · **43 PRs touched** · **48 branches** · **0 releases**
+**30-day pulse:** **1214 commits** · **43 PRs touched** · **48 branches** · **0 releases**
 
 🚀 **3** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 475 | 129 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 157 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 469 | 129 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 157 | 1 day ago | `JavaScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 14 | 6 days ago | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 10 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 13 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 17 days ago | `TeX` |
 | [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 56 days ago | `TypeScript` |
-| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **7** | 0 | 0 | 90 days ago | `TypeScript` |
+| [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **0** | 0 | 0 | 91 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
