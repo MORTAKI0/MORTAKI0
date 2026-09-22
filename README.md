@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `██████░░░░` **57/100** across the 8 hottest public builds
 
-**30-day pulse:** **1210 commits** · **43 PRs touched** · **48 branches** · **0 releases**
+**30-day pulse:** **1208 commits** · **44 PRs touched** · **48 branches** · **0 releases**
 
 🚀 **3** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,13 +56,13 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 465 | 129 | 1 day ago | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 157 | 1 day ago | `JavaScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 14 | 6 days ago | `—` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 10 days ago | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 463 | 131 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 156 | 1 day ago | `JavaScript` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 13 | 6 days ago | `—` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 11 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🔥 Shipping** | **59** | 221 | 0 | 14 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 17 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 56 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 57 days ago | `TypeScript` |
 | [`glow-content-os`](https://github.com/MORTAKI0/glow-content-os) | **⚪ Quiet** | **0** | 0 | 0 | 91 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 21, 2026_
+- 🔀 Merged PR [**#257 test(web): PWA mobile W00 — baseline harness and route inventory**](https://github.com/egawilldoit/Ega-House-Platform/pull/257) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 22, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 22, 2026_
 - 🌱 Created branch `feat/mobile-wave11-ui-primitives` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 21, 2026_
 - 🔀 Merged PR [**#256 feat(mobile): Wave 11 UI primitives and onboarding**](https://github.com/egawilldoit/Ega-House-Platform/pull/256) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 21, 2026_
 - ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 - 🔀 Merged PR [**#112 feat: deliver intake-to-publication workflow**](https://github.com/egawilldoit/ega-skills/pull/112) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
-- 🔀 Merged PR [**#111 fix: harden intake publication and retained serving**](https://github.com/egawilldoit/ega-skills/pull/111) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 20, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
