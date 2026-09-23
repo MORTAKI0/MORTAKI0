@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███████░░░` **68/100** across the 8 hottest public builds
 
-**30-day pulse:** **1206 commits** · **41 PRs touched** · **49 branches** · **0 releases**
+**30-day pulse:** **1195 commits** · **42 PRs touched** · **51 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 454 | 113 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 160 | today | `JavaScript` |
-| [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **96** | 7 | 19 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 161 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 443 | 108 | today | `TypeScript` |
+| [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **96** | 7 | 23 | today | `TypeScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🚀 Hot** | **76** | 2 | 8 | 7 days ago | `—` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 11 days ago | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 12 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 221 | 0 | 15 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 18 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 57 days ago | `TypeScript` |
+| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 58 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **8** | **1** | **1** | **5** | **55/100** |
 
-**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Back15`](https://github.com/egawilldoit/Back15)
+**Freshest builds:** [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`Back15`](https://github.com/egawilldoit/Back15)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 23, 2026_
-- 🌱 Created branch `preview/pr-258` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 23, 2026_
 - ⚡ Updated [`egawilldoit/Back15`](https://github.com/egawilldoit/Back15) — _Sep 23, 2026_
-- 🔀 Opened PR [**#1 Back15 V0.1: offline tracking, SQLite journal, bounded reminders**](https://github.com/egawilldoit/Back15/pull/1) in [`egawilldoit/Back15`](https://github.com/egawilldoit/Back15) — _Sep 23, 2026_
-- 🌱 Created branch `mvp/v0.1-implementation` in [`egawilldoit/Back15`](https://github.com/egawilldoit/Back15) — _Sep 23, 2026_
-- 🌱 Created branch `feat/web-light-workspace-refactor` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 22, 2026_
+- 🔀 Merged PR [**#114 release: finalize EGA Skills 2.0 ship readiness**](https://github.com/egawilldoit/ega-skills/pull/114) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 23, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 23, 2026_
+- 🌱 Created branch `release/2.0-final-closure` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 23, 2026_
+- 🌱 Created branch `ui/today-polish` in [`egawilldoit/Back15`](https://github.com/egawilldoit/Back15) — _Sep 23, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 23, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
