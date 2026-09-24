@@ -46,24 +46,24 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `███████░░░` **68/100** across the 8 hottest public builds
+**Motion index:** `███████░░░` **72/100** across the 8 hottest public builds
 
-**30-day pulse:** **1195 commits** · **40 PRs touched** · **52 branches** · **1 releases**
+**30-day pulse:** **1239 commits** · **41 PRs touched** · **52 branches** · **1 releases**
 
-🚀 **3** hot · 🔥 **2** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
+🚀 **3** hot · 🔥 **2** shipping · 🟢 **3** active · 🟡 **0** cooling · ⚪ **40** quiet
 
 **Active stack signal:** `TypeScript` ×4 · `JavaScript` ×1 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 443 | 108 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 157 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 486 | 111 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 156 | today | `JavaScript` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **96** | 7 | 27 | today | `TypeScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **70** | 2 | 8 | 8 days ago | `—` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **65** | 2 | 5 | 8 days ago | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🔥 Shipping** | **59** | 130 | 0 | 12 days ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 221 | 0 | 15 days ago | `TypeScript` |
+| [`skills`](https://github.com/egawilldoit/skills) | **🟢 Active** | **53** | 1 | 1 | today | `—` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 221 | 0 | 16 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 156 | 0 | 19 days ago | `TeX` |
-| [`hermes-mobile`](https://github.com/egawilldoit/hermes-mobile) | **⚪ Quiet** | **14** | 0 | 0 | 58 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -79,7 +79,7 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **8** | **1** | **1** | **5** | **54/100** |
+| **9** | **1** | **1** | **6** | **53/100** |
 
 **Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Back15`](https://github.com/egawilldoit/Back15)
 <!-- EGA_STATS:END -->
@@ -174,11 +174,11 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 
 <!-- RECENT_ACTIVITY:START -->
 - ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
-- 🌱 Created branch `perf/wave1b-request-identity` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
-- 🔀 Opened PR [**#260 perf(web): resolve identity and timezone once per request**](https://github.com/egawilldoit/Ega-House-Platform/pull/260) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
-- 🔀 Opened PR [**#259 perf(web): render loading boundaries without the shell query graph**](https://github.com/egawilldoit/Ega-House-Platform/pull/259) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
-- 🌱 Created branch `perf/wave1a-loading-fallbacks` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
-- ⚡ Updated [`egawilldoit/Back15`](https://github.com/egawilldoit/Back15) — _Sep 23, 2026_
+- 🔀 Opened PR [**#1 feat: establish initial agent skill catalog**](https://github.com/egawilldoit/skills/pull/1) in [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Sep 24, 2026_
+- 🔀 Merged PR [**#262 perf(web): drop dead /tasks read work left by the rail removal**](https://github.com/egawilldoit/Ega-House-Platform/pull/262) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
+- 🔀 Merged PR [**#261 perf(web): count the task summary instead of reading every task row**](https://github.com/egawilldoit/Ega-House-Platform/pull/261) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
+- 🔀 Merged PR [**#260 perf(web): resolve identity and timezone once per request**](https://github.com/egawilldoit/Ega-House-Platform/pull/260) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
+- 🔀 Merged PR [**#259 perf(web): render loading boundaries without the shell query graph**](https://github.com/egawilldoit/Ega-House-Platform/pull/259) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 24, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
