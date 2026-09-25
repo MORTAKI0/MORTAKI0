@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███████░░░` **73/100** across the 8 hottest public builds
 
-**30-day pulse:** **1216 commits** · **38 PRs touched** · **50 branches** · **1 releases**
+**30-day pulse:** **1188 commits** · **38 PRs touched** · **50 branches** · **1 releases**
 
 🚀 **3** hot · 🔥 **3** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -57,7 +57,7 @@
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 154 | today | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 463 | 111 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 435 | 111 | today | `TypeScript` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **96** | 7 | 27 | 1 day ago | `TypeScript` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🔥 Shipping** | **68** | 1 | 4 | today | `—` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **60** | 2 | 4 | 9 days ago | `—` |
