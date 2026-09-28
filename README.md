@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `███████░░░` **73/100** across the 8 hottest public builds
 
-**30-day pulse:** **1098 commits** · **37 PRs touched** · **29 branches** · **1 releases**
+**30-day pulse:** **1058 commits** · **37 PRs touched** · **30 branches** · **1 releases**
 
 🚀 **4** hot · 🔥 **0** shipping · 🟢 **4** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,12 +56,12 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 331 | 173 | today | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 299 | 175 | today | `TypeScript` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **100** | 28 | 37 | today | `Python` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 60 | today | `JavaScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 58 | today | `JavaScript` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **91** | 7 | 27 | 4 days ago | `TypeScript` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🟢 Active** | **51** | 130 | 0 | 16 days ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 221 | 0 | 19 days ago | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 213 | 0 | 20 days ago | `TypeScript` |
 | [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 143 | 0 | 23 days ago | `TeX` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🟢 Active** | **40** | 2 | 0 | 12 days ago | `—` |
 
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 27, 2026_
+- 🌱 Created branch `integration/ega-shipping-659-661-662-663` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 28, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 28, 2026_
 - ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 27, 2026_
 - 🌱 Created branch `feat/ega-661-timezone` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 27, 2026_
 - 🌱 Created branch `feat/ega-662-work-activity` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 27, 2026_
 - 🔀 Merged PR [**#3 feat: add EGA routing metadata for the 66-skill catalog**](https://github.com/egawilldoit/skills/pull/3) in [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Sep 27, 2026_
-- ⚡ Updated [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Sep 27, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
