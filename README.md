@@ -48,22 +48,22 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `████████░░` **76/100** across the 8 hottest public builds
 
-**30-day pulse:** **925 commits** · **34 PRs touched** · **31 branches** · **1 releases**
+**30-day pulse:** **889 commits** · **27 PRs touched** · **32 branches** · **1 releases**
 
 🚀 **4** hot · 🔥 **1** shipping · 🟢 **3** active · 🟡 **0** cooling · ⚪ **40** quiet
 
-**Active stack signal:** `TypeScript` ×4 · `Python` ×1 · `JavaScript` ×1 · `TeX` ×1
+**Active stack signal:** `TypeScript` ×4 · `JavaScript` ×1 · `Python` ×1 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 264 | 182 | today | `TypeScript` |
-| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **100** | 28 | 37 | 1 day ago | `Python` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 48 | 1 day ago | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 283 | 191 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 35 | today | `JavaScript` |
+| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **100** | 30 | 41 | today | `Python` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🚀 Hot** | **91** | 7 | 27 | 5 days ago | `TypeScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **66** | 2 | 3 | today | `—` |
 | [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🟢 Active** | **51** | 130 | 0 | 17 days ago | `TypeScript` |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 115 | 0 | 20 days ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 143 | 0 | 24 days ago | `TeX` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 89 | 0 | 21 days ago | `TypeScript` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 112 | 0 | 24 days ago | `TeX` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **9** | **1** | **1** | **6** | **57/100** |
 
-**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`skills`](https://github.com/egawilldoit/skills) · [`ega-skills`](https://github.com/egawilldoit/ega-skills)
+**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`skills`](https://github.com/egawilldoit/skills)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 28, 2026_
-- 🔀 Merged PR [**#267 feat: EGA-661 timezone-aware EGA House**](https://github.com/egawilldoit/Ega-House-Platform/pull/267) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 28, 2026_
-- 🔀 Merged PR [**#268 feat: EGA-659 Backlog**](https://github.com/egawilldoit/Ega-House-Platform/pull/268) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 28, 2026_
-- 🌱 Created branch `fix/t3-recovery-opencode-upgrade-hardening` in [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 28, 2026_
-- ⚡ Updated [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 28, 2026_
-- 🔀 Opened PR [**#1 Fix T3 inactive recovery and harden OpenCode upgrades**](https://github.com/egawilldoit/Update-OPS/pull/1) in [`egawilldoit/Update-OPS`](https://github.com/egawilldoit/Update-OPS) — _Sep 28, 2026_
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 29, 2026_
+- 🌱 Created branch `fix/cross-feature-streak-timezone-routes` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 29, 2026_
+- 🔀 Opened PR [**#269 fix(cross-feature): one streak authority, stable Home date, synced route mirror**](https://github.com/egawilldoit/Ega-House-Platform/pull/269) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 29, 2026_
+- 🔀 Merged PR [**#265 feat: EGA-663 Home redesign**](https://github.com/egawilldoit/Ega-House-Platform/pull/265) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 29, 2026_
+- 🔀 Merged PR [**#119 catalog: publish governed 114-skill catalog (catalog-2026-09-29.1)**](https://github.com/egawilldoit/ega-skills/pull/119) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 29, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 29, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
