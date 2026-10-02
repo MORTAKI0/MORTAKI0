@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `████████░░` **75/100** across the 8 hottest public builds
 
-**30-day pulse:** **823 commits** · **34 PRs touched** · **32 branches** · **0 releases**
+**30-day pulse:** **771 commits** · **34 PRs touched** · **36 branches** · **0 releases**
 
 🚀 **4** hot · 🔥 **2** shipping · 🟢 **3** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -57,12 +57,12 @@
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 236 | 83 | 1 day ago | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 294 | 179 | 1 day ago | `TypeScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 294 | 178 | 1 day ago | `TypeScript` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 17 | 2 days ago | `Python` |
-| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 15 | today | `JavaScript` |
+| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 16 | today | `JavaScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 3 days ago | `—` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🔥 Shipping** | **55** | 7 | 0 | 8 days ago | `TypeScript` |
-| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🟢 Active** | **51** | 80 | 0 | 20 days ago | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🟢 Active** | **51** | 35 | 0 | 20 days ago | `TypeScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🟢 Active** | **51** | 89 | 0 | 23 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 01, 2026_
-- 🌱 Created branch `catalog/2026-09-29.2-candidate` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 30, 2026_
+- 🌱 Created branch `main` in [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Sep 30, 2026_
+- 🌱 Created branch `refactor/post271-unified-create` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 30, 2026_
+- 🌱 Created branch `refactor/post271-today-final` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 30, 2026_
+- 🌱 Created branch `refactor/post271-today-final` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 30, 2026_
 - ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 30, 2026_
-- 🌱 Created branch `feat/product-home-today-activity-create-polish` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Sep 30, 2026_
-- 🌱 Created branch `chore/2.0.1-version-and-notes` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 29, 2026_
-- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Sep 30, 2026_
+- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 01, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
