@@ -46,9 +46,9 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `████████░░` **79/100** across the 8 hottest public builds
+**Motion index:** `████████░░` **80/100** across the 8 hottest public builds
 
-**30-day pulse:** **711 commits** · **35 PRs touched** · **37 branches** · **0 releases**
+**30-day pulse:** **709 commits** · **35 PRs touched** · **37 branches** · **0 releases**
 
 🚀 **5** hot · 🔥 **2** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,14 +56,14 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 95 | 5 | today | `TypeScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 95 | 6 | today | `TypeScript` |
 | [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **95** | 236 | 83 | 2 days ago | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 294 | 166 | 2 days ago | `TypeScript` |
-| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 15 | 3 days ago | `Python` |
-| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 25 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 294 | 164 | 2 days ago | `TypeScript` |
+| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 14 | 3 days ago | `Python` |
+| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 27 | today | `JavaScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 4 days ago | `—` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🔥 Shipping** | **55** | 7 | 0 | 9 days ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 41 | 0 | 28 days ago | `TeX` |
+| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 39 | 0 | 28 days ago | `TeX` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -173,7 +173,7 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
-- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 02, 2026_
+- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 03, 2026_
 - ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
 - 🔀 Merged PR [**#22 Fix OpenCode Go new-cycle refresh cooldown**](https://github.com/egawilldoit/token-observatory/pull/22) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
 - 🌱 Created branch `fix/opencode-go-cycle-refresh-cooldown` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
