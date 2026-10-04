@@ -46,24 +46,24 @@
 <br />
 
 <!-- BUILD_STAGES:START -->
-**Motion index:** `████████░░` **80/100** across the 8 hottest public builds
+**Motion index:** `████████░░` **78/100** across the 8 hottest public builds
 
-**30-day pulse:** **643 commits** · **35 PRs touched** · **38 branches** · **0 releases**
+**30-day pulse:** **532 commits** · **35 PRs touched** · **40 branches** · **0 releases**
 
-🚀 **5** hot · 🔥 **2** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
+🚀 **5** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **1** cooling · ⚪ **40** quiet
 
 **Active stack signal:** `TypeScript` ×4 · `JavaScript` ×2 · `Python` ×1 · `TeX` ×1
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 284 | 159 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 180 | 84 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 269 | 157 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 123 | 85 | today | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 95 | 9 | 2 days ago | `TypeScript` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 11 | 5 days ago | `Python` |
-| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 31 | today | `JavaScript` |
-| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 5 days ago | `—` |
-| [`Back15`](https://github.com/egawilldoit/Back15) | **🔥 Shipping** | **55** | 7 | 0 | 10 days ago | `TypeScript` |
-| [`Rapport-Pfe-2026`](https://github.com/MORTAKI0/Rapport-Pfe-2026) | **🟢 Active** | **51** | 39 | 0 | 29 days ago | `TeX` |
+| [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 32 | 1 day ago | `JavaScript` |
+| [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 6 days ago | `—` |
+| [`Back15`](https://github.com/egawilldoit/Back15) | **🔥 Shipping** | **55** | 7 | 0 | 11 days ago | `TypeScript` |
+| [`demo_frontend`](https://github.com/MORTAKI0/demo_frontend) | **🟢 Active** | **35** | 3 | 0 | 23 days ago | `TypeScript` |
 
 <sub>Motion score is derived from public GitHub signals: up to 45 points for push recency, 25 for commits in the last 30 days, and 30 for recent public events. It measures current engineering motion, not product maturity or production readiness.</sub>
 <!-- BUILD_STAGES:END -->
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 🌱 Created branch `feat/mcp-platform-hardening-expansion` in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Oct 04, 2026_
+- 🌱 Created branch `feat/web-console` in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Oct 04, 2026_
+- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 03, 2026_
 - 🔀 Opened PR [**#278 feat(mcp): close the OAuth database authorization boundary and version capability policy**](https://github.com/egawilldoit/Ega-House-Platform/pull/278) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Oct 04, 2026_
 - 🔀 Opened PR [**#137 feat(web): EGA Skills Web Console (read-oriented, draft)**](https://github.com/egawilldoit/ega-skills/pull/137) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Oct 04, 2026_
 - ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
-- 🌱 Created branch `chore/mvp-baseline` in [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 03, 2026_
-- ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 01, 2026_
-- 🔀 Merged PR [**#22 Fix OpenCode Go new-cycle refresh cooldown**](https://github.com/egawilldoit/token-observatory/pull/22) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
