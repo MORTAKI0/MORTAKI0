@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `████████░░` **80/100** across the 8 hottest public builds
 
-**30-day pulse:** **676 commits** · **34 PRs touched** · **38 branches** · **0 releases**
+**30-day pulse:** **643 commits** · **35 PRs touched** · **38 branches** · **0 releases**
 
 🚀 **5** hot · 🔥 **2** shipping · 🟢 **2** active · 🟡 **0** cooling · ⚪ **40** quiet
 
@@ -56,10 +56,10 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **100** | 95 | 9 | 1 day ago | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **95** | 211 | 83 | 3 days ago | `JavaScript` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **95** | 286 | 159 | 3 days ago | `TypeScript` |
-| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 12 | 4 days ago | `Python` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 284 | 159 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 180 | 84 | today | `JavaScript` |
+| [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 95 | 9 | 2 days ago | `TypeScript` |
+| [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 11 | 5 days ago | `Python` |
 | [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 31 | today | `JavaScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 5 days ago | `—` |
 | [`Back15`](https://github.com/egawilldoit/Back15) | **🔥 Shipping** | **55** | 7 | 0 | 10 days ago | `TypeScript` |
@@ -79,9 +79,9 @@
 <!-- EGA_STATS:START -->
 | 🗂️ Public repos | ⭐ Stars | 🍴 Forks | ⚡ Moving | 📈 Avg velocity |
 | ---: | ---: | ---: | ---: | ---: |
-| **10** | **1** | **1** | **7** | **59/100** |
+| **10** | **1** | **1** | **7** | **60/100** |
 
-**Freshest builds:** [`token-observatory`](https://github.com/egawilldoit/token-observatory) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform)
+**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`token-observatory`](https://github.com/egawilldoit/token-observatory)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- 🔀 Opened PR [**#278 feat(mcp): close the OAuth database authorization boundary and version capability policy**](https://github.com/egawilldoit/Ega-House-Platform/pull/278) in [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Oct 04, 2026_
+- 🔀 Opened PR [**#137 feat(web): EGA Skills Web Console (read-oriented, draft)**](https://github.com/egawilldoit/ega-skills/pull/137) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Oct 04, 2026_
 - ⚡ Updated [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
 - 🌱 Created branch `chore/mvp-baseline` in [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 03, 2026_
 - ⚡ Updated [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 01, 2026_
 - 🔀 Merged PR [**#22 Fix OpenCode Go new-cycle refresh cooldown**](https://github.com/egawilldoit/token-observatory/pull/22) in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
-- 🌱 Created branch `fix/opencode-go-cycle-refresh-cooldown` in [`egawilldoit/token-observatory`](https://github.com/egawilldoit/token-observatory) — _Oct 02, 2026_
-- 🌱 Created branch `dev` in [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Sep 30, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
