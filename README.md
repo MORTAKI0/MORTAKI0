@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `████████░░` **78/100** across the 8 hottest public builds
 
-**30-day pulse:** **532 commits** · **35 PRs touched** · **40 branches** · **0 releases**
+**30-day pulse:** **514 commits** · **35 PRs touched** · **40 branches** · **0 releases**
 
 🚀 **5** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **1** cooling · ⚪ **40** quiet
 
@@ -56,8 +56,8 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 269 | 157 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 123 | 85 | today | `JavaScript` |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 265 | 157 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 109 | 85 | today | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 95 | 9 | 2 days ago | `TypeScript` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **95** | 30 | 11 | 5 days ago | `Python` |
 | [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 32 | 1 day ago | `JavaScript` |
