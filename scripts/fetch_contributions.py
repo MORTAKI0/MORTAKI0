@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import re
 from collections import defaultdict
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 USERNAME = "MORTAKI0"
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "contributions.json"
-URL = f"https://github.com/users/{USERNAME}/contributions"
+BASE_URL = f"https://github.com/users/{USERNAME}/contributions"
 COUNT_RE = re.compile(r"([0-9][0-9,]*)\s+contribution", re.I)
 
 
@@ -64,8 +64,11 @@ def streaks(days: list[dict]) -> tuple[int, int]:
 
 
 def main() -> None:
+    today = datetime.now(timezone.utc).date()
+    start = today - timedelta(days=370)
     response = requests.get(
-        URL,
+        BASE_URL,
+        params={"from": start.isoformat(), "to": today.isoformat()},
         headers={
             "User-Agent": "MORTAKI0-profile-art/1.0",
             "Accept": "text/html,application/xhtml+xml",
@@ -123,7 +126,7 @@ def main() -> None:
 
     payload = {
         "username": USERNAME,
-        "source": URL,
+        "source": response.url,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "days": days,
         "stats": {
