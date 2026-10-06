@@ -48,7 +48,7 @@
 <!-- BUILD_STAGES:START -->
 **Motion index:** `█████████░` **87/100** across the 8 hottest public builds
 
-**30-day pulse:** **381 commits** · **37 PRs touched** · **43 branches** · **0 releases**
+**30-day pulse:** **371 commits** · **38 PRs touched** · **43 branches** · **0 releases**
 
 🚀 **6** hot · 🔥 **2** shipping · 🟢 **1** active · 🟡 **0** cooling · ⚪ **41** quiet
 
@@ -56,10 +56,10 @@
 
 | Project | Stage | Score | 30d commits | 30d events | Last push | Lang |
 | --- | --- | ---: | ---: | ---: | --- | --- |
+| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 247 | 140 | today | `TypeScript` |
+| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 40 | 87 | today | `JavaScript` |
 | [`vm-updates-scripts`](https://github.com/egawilldoit/vm-updates-scripts) | **🚀 Hot** | **100** | 10 | 8 | today | `Shell` |
 | [`skills`](https://github.com/egawilldoit/skills) | **🚀 Hot** | **100** | 30 | 14 | today | `Python` |
-| [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) | **🚀 Hot** | **100** | 247 | 142 | today | `TypeScript` |
-| [`ega-skills`](https://github.com/egawilldoit/ega-skills) | **🚀 Hot** | **100** | 50 | 85 | 1 day ago | `JavaScript` |
 | [`token-observatory`](https://github.com/egawilldoit/token-observatory) | **🚀 Hot** | **95** | 29 | 9 | 3 days ago | `TypeScript` |
 | [`ShipLoop`](https://github.com/egawilldoit/ShipLoop) | **🚀 Hot** | **84** | 3 | 35 | today | `JavaScript` |
 | [`Update-OPS`](https://github.com/egawilldoit/Update-OPS) | **🔥 Shipping** | **61** | 2 | 3 | 7 days ago | `—` |
@@ -81,7 +81,7 @@
 | ---: | ---: | ---: | ---: | ---: |
 | **11** | **1** | **1** | **8** | **64/100** |
 
-**Freshest builds:** [`vm-updates-scripts`](https://github.com/egawilldoit/vm-updates-scripts) · [`skills`](https://github.com/egawilldoit/skills) · [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform)
+**Freshest builds:** [`Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) · [`ega-skills`](https://github.com/egawilldoit/ega-skills) · [`vm-updates-scripts`](https://github.com/egawilldoit/vm-updates-scripts)
 <!-- EGA_STATS:END -->
 
 <div align="center">
@@ -173,12 +173,12 @@ Content automation that schedules TikTok and Instagram videos to Pinterest throu
 ## ⚡ Recent public activity
 
 <!-- RECENT_ACTIVITY:START -->
+- ⚡ Updated [`egawilldoit/Ega-House-Platform`](https://github.com/egawilldoit/Ega-House-Platform) — _Oct 06, 2026_
+- ⚡ Updated [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Oct 06, 2026_
+- 🔀 Opened PR [**#138 feat: add skill discovery, routing metadata findings, and human catalog**](https://github.com/egawilldoit/ega-skills/pull/138) in [`egawilldoit/ega-skills`](https://github.com/egawilldoit/ega-skills) — _Oct 06, 2026_
 - 🌱 Created branch `m1/request-contract-handoff` in [`egawilldoit/ShipLoop`](https://github.com/egawilldoit/ShipLoop) — _Oct 05, 2026_
 - 🌱 Created branch `main` in [`egawilldoit/vm-updates-scripts`](https://github.com/egawilldoit/vm-updates-scripts) — _Oct 05, 2026_
 - ⚡ Updated [`egawilldoit/vm-updates-scripts`](https://github.com/egawilldoit/vm-updates-scripts) — _Oct 05, 2026_
-- ⚡ Updated [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Oct 05, 2026_
-- 🔀 Opened PR [**#6 docs: add AGENTS.md agent guide and CONTRIBUTING.md**](https://github.com/egawilldoit/skills/pull/6) in [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Oct 05, 2026_
-- 🌱 Created branch `docs/agents-md-update` in [`egawilldoit/skills`](https://github.com/egawilldoit/skills) — _Oct 05, 2026_
 <!-- RECENT_ACTIVITY:END -->
 
 ---
