@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="188" viewBox="0 0 860 188" role="img" aria-labelledby="title desc">
+<title id="title">MORTAKI0 contribution heatmap</title>
+<desc id="desc">Waiting for the first profile-art refresh workflow run.</desc>
+<rect width="860" height="188" rx="14" fill="#0d1117" stroke="#30363d"/>
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style>
+<text x="22" y="28" fill="#c9d1d9" font-size="12" font-weight="700">github contribution activity</text>
+<text x="430" y="96" fill="#8b949e" font-size="12" text-anchor="middle">syncing live contribution calendar on the first workflow run...</text>
+<rect x="326" y="116" width="208" height="8" rx="4" fill="#161b22"/>
+<rect x="326" y="116" width="208" height="8" rx="4" fill="#39d353"><animate attributeName="width" values="0;208" dur="1.4s" fill="freeze"/></rect>
+</svg>
