@@ -1,0 +1,7 @@
+requests==2.32.3
+beautifulsoup4==4.12.3
+pillow>=10.4,<12
+numpy>=2.0,<3
+opencv-python-headless>=4.10,<5
+# Optional for higher-quality local background removal:
+# rembg>=2.0,<3

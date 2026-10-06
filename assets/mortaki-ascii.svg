@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="197" viewBox="0 0 370 197" role="img" aria-labelledby="title desc">
+<title id="title">Abdelilah MORTAKI ASCII portrait</title>
+<desc id="desc">Animated terminal identity art. The profile workflow replaces this bootstrap frame with avatar-derived ASCII.</desc>
+<rect width="370" height="197" rx="14" fill="#0d1117" stroke="#30363d"/>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#c9d1d9}
+.l{opacity:0;animation:p .25s ease-out forwards}
+@keyframes p{to{opacity:1}}
+</style>
+<text x="12" y="16" font-size="8" fill="#8b949e">./identity --render ascii</text>
+<g font-size="8.5" text-anchor="middle">
+<text class="l" x="185" y="42" style="animation-delay:.05s">             .:-=++++=-:.             </text>
+<text class="l" x="185" y="54" style="animation-delay:.10s">          :+c##########c+:          </text>
+<text class="l" x="185" y="66" style="animation-delay:.15s">        +###%@#*==*#@%###+        </text>
+<text class="l" x="185" y="78" style="animation-delay:.20s">       ###%@*.    .*@%####       </text>
+<text class="l" x="185" y="90" style="animation-delay:.25s">       ###%@- :##: -@%####       </text>
+<text class="l" x="185" y="102" style="animation-delay:.30s">       ###%@*  --  *@%####       </text>
+<text class="l" x="185" y="114" style="animation-delay:.35s">        ###%@#====#@%####        </text>
+<text class="l" x="185" y="126" style="animation-delay:.40s">          +c########c+          </text>
+<text class="l" x="185" y="138" style="animation-delay:.45s">             :-==-:             </text>
+<text class="l" x="185" y="165" style="animation-delay:.55s" fill="#58a6ff">M O R T A K I 0</text>
+</g>
+<rect x="306" y="181" width="6" height="10" fill="#58a6ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="12" y="190" font-size="8" fill="#8b949e">avatar render scheduled on profile refresh</text>
+</svg>
